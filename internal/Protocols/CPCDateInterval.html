@@ -1,0 +1,747 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>CPCDateInterval Protocol Reference</title>
+    <link rel="stylesheet" type="text/css" href="../css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="../css/highlight.css" />
+    <meta charset="utf-8">
+    <script src="../js/jquery.min.js" defer></script>
+    <script src="../js/jazzy.js" defer></script>
+    
+    <script src="../js/lunr.min.js" defer></script>
+    <script src="../js/typeahead.jquery.js" defer></script>
+    <script src="../js/jazzy.search.js" defer></script>
+  </head>
+  <body>
+
+    <a name="//apple_ref/swift/Protocol/CPCDateInterval" class="dashAnchor"></a>
+
+    <a title="CPCDateInterval Protocol Reference"></a>
+
+    <header class="header">
+      <p class="header-col header-col--primary">
+        <a class="header-link" href="../index.html">
+          CPCalendar Docs
+        </a>
+         (39% documented)
+      </p>
+    
+      <p class="header-col--secondary">
+        <form role="search" action="../search.json">
+          <input type="text" placeholder="Search documentation" data-typeahead>
+        </form>
+      </p>
+    
+        <p class="header-col header-col--secondary">
+          <a class="header-link" href="https://github.com/cleverpumpkin/cpcalendar-ios">
+            <img class="header-icon" src="../img/gh.png"/>
+            View on GitHub
+          </a>
+        </p>
+    
+        <p class="header-col header-col--secondary">
+          <a class="header-link" href="dash-feed://https%3A%2F%2Fcleverpumpkin%2Egithub%2Eio%2Fcpcalendar%2Dios%2Ddocs%2Finternal%2Fdocsets%2FCPCalendar%2Exml">
+            <img class="header-icon" src="../img/dash.png"/>
+            Install in Dash
+          </a>
+        </p>
+    </header>
+
+    <p class="breadcrumbs">
+      <a class="breadcrumb" href="../index.html">CPCalendar Reference</a>
+      <img class="carat" src="../img/carat.png" />
+      CPCDateInterval Protocol Reference
+    </p>
+
+    <div class="content-wrapper">
+      <nav class="navigation">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="../Model.html">Model</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCDateInterval.html">CPCDateInterval</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCDateIntervalInitializable.html">CPCDateIntervalInitializable</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCCalendarUnitSymbol.html">CPCCalendarUnitSymbol</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCCalendarUnitSymbol/Style.html">– Style</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Enums/CPCCalendarUnitSymbolStyle.html">CPCCalendarUnitSymbolStyle</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/CPCDay.html">CPCDay</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/CPCDay/BackingStorage.html">– BackingStorage</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/CPCWeek.html">CPCWeek</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/CPCWeek/BackingStorage.html">– BackingStorage</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/CPCMonth.html">CPCMonth</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/CPCMonth/BackingStorage.html">– BackingStorage</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/CPCYear.html">CPCYear</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/CPCYear/BackingStorage.html">– BackingStorage</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="../View Protocols.html">View Protocols</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCViewProtocol.html">CPCViewProtocol</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCViewLayoutAttributes.html">CPCViewLayoutAttributes</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCViewMeasuring.html">CPCViewMeasuring</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCFixedAspectRatioView.html">CPCFixedAspectRatioView</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="../Views.html">Views</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Classes/CPCWeekView.html">CPCWeekView</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Classes/CPCMonthView.html">CPCMonthView</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Classes/CPCMonthView/LayoutAttributes.html">– LayoutAttributes</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Classes/CPCMonthView/Layout.html">– Layout</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Classes/CPCMultiMonthsView.html">CPCMultiMonthsView</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Classes/CPCCalendarView.html">CPCCalendarView</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="../Selection management.html">Selection management</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Enums/CPCViewSelection.html">CPCViewSelection</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCMonthViewSelectionDelegate.html">CPCMonthViewSelectionDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCMultiMonthsViewSelectionDelegate.html">CPCMultiMonthsViewSelectionDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCCalendarViewSelectionDelegate.html">CPCCalendarViewSelectionDelegate</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="../Views customization.html">Views customization</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/CPCViewTitleStyle.html">CPCViewTitleStyle</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/CPCDayCellState.html">CPCDayCellState</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/CPCDayCellState/BackgroundState.html">– BackgroundState</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCDayCellRenderingContext.html">CPCDayCellRenderingContext</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCDayCellRenderer.html">CPCDayCellRenderer</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="../Other Classes.html">Other Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Classes/CPCCalendarWrapper.html">CPCCalendarWrapper</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Classes/CPCViewAppearanceStorage.html">CPCViewAppearanceStorage</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="../Other Global Variables.html">Other Global Variables</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Other Global Variables.html#/s:10CPCalendar30CPCViewDefaultSelectionHandlerAA0bdE8Protocol_pvp">CPCViewDefaultSelectionHandler</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="../Other Enums.html">Other Enumerations</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Enums/BoundLocation.html">BoundLocation</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="../Other Extensions.html">Other Extensions</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Extensions/BinaryFloatingPoint.html">BinaryFloatingPoint</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Extensions/CPCMonthViewRedrawContextImpl.html">CPCMonthViewRedrawContextImpl</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Extensions/DispatchSemaphore.html">DispatchSemaphore</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Extensions/FloatingPoint.html">FloatingPoint</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Extensions/NSParagraphStyle.html">NSParagraphStyle</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Extensions/RangeExpression.html">RangeExpression</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Extensions/RangeReplaceableCollection.html">RangeReplaceableCollection</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Extensions/Set.html">Set</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Extensions/SetAlgebra.html">SetAlgebra</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Extensions/UIView.html">UIView</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Extensions/os_unfair_lock.html">os_unfair_lock</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="../Other Functions.html">Other Functions</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Other Functions.html#/s:10CPCalendar21concatenateHashValuesS2i_S2i11shiftAmounttF">concatenateHashValues(_:_:shiftAmount:)</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Other Functions.html#/s:10CPCalendar9guaranteexxSg_s12StaticStringV4fileSi4lineSS8functiontlF">guarantee(_:file:line:function:)</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Other Functions.html#/s:10CPCalendar12hashIntegersSixs8SequenceRzs17FixedWidthInteger7ElementRpzlF">hashIntegers(_:)</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Other Functions.html#/s:10CPCalendar12hashIntegersSix_xdts17FixedWidthIntegerRzlF">hashIntegers(_:_:)</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Other Functions.html#/s:10CPCalendar5log2iSixs13BinaryIntegerRzlF">log2i(_:)</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Other Functions.html#/s:10CPCalendar5log2iSixs17FixedWidthIntegerRzlF">log2i(_:)</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Other Functions.html#/s:10CPCalendar29resultingCalendarForOperationAA18CPCCalendarWrapperCx3for_q_tAA0F4UnitRzAaFR_r0_lF">resultingCalendarForOperation(for:_:)</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="../Other Protocols.html">Other Protocols</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/BoundedRangeProtocol.html">BoundedRangeProtocol</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCCalendarUnit.html">CPCCalendarUnit</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCCalendarUnitBackingType.html">CPCCalendarUnitBackingType</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCCalendarUnitSymbolImpl.html">CPCCalendarUnitSymbolImpl</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCCompoundCalendarUnit.html">CPCCompoundCalendarUnit</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCFontMetricsProtocol.html">CPCFontMetricsProtocol</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCMonthViewRedrawContext.html">CPCMonthViewRedrawContext</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCPrimitiveSelectionHandler.html">CPCPrimitiveSelectionHandler</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCViewBackedByAppearanceStorage.html">CPCViewBackedByAppearanceStorage</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCViewContentAdjusting.html">CPCViewContentAdjusting</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCViewDelegatingSelectionHandling.html">CPCViewDelegatingSelectionHandling</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCViewSelectionHandlerProtocol.html">CPCViewSelectionHandlerProtocol</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/CPCViewSelectionHandling.html">CPCViewSelectionHandling</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/ClosedRangeBaseProtocol.html">ClosedRangeBaseProtocol</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/DateComponentsConvertible.html">DateComponentsConvertible</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/ExpressibleByDateComponents.html">ExpressibleByDateComponents</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/RangeBaseProtocol.html">RangeBaseProtocol</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/ThreadsafeStorageLock.html">ThreadsafeStorageLock</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/ThreadsafeStorageLockWrapper.html">ThreadsafeStorageLockWrapper</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/ThreadsafeStorageProtocol.html">ThreadsafeStorageProtocol</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="../Other Structs.html">Other Structures</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Other Structs.html#/s:10CPCalendar25CPCDefaultDayCellRendererV">CPCDefaultDayCellRenderer</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/CPCFontMetrics.html">CPCFontMetrics</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/CPCViewDayCellStateBackgroundColors.html">CPCViewDayCellStateBackgroundColors</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/ComputedCollection.html">ComputedCollection</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/ComputedIndices.html">ComputedIndices</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/GridIndices.html">GridIndices</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/GridIndices/Element.html">– Element</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/ThreadsafeStorage.html">ThreadsafeStorage</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/UnownedArray.html">UnownedArray</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="../Other Typealiases.html">Other Type Aliases</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Other Typealiases.html#/s:10CPCalendar13ComputedArraya">ComputedArray</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Other Typealiases.html#/s:10CPCalendar23UnfairThreadsafeStoragea">UnfairThreadsafeStorage</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+
+        <section class="section">
+          <div class="section-content">
+            <h1>CPCDateInterval</h1>
+              <div class="declaration">
+                <div class="language">
+                  <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">CPCDateInterval</span> <span class="p">:</span> <span class="kt">RangeExpression</span> <span class="k">where</span> <span class="k">Self</span><span class="o">.</span><span class="kt">Bound</span> <span class="o">==</span> <span class="kt">Date</span></code></pre>
+
+                </div>
+              </div>
+            <p>Common protocol for types representing an arbitrary range of dates.</p>
+
+          </div>
+        </section>
+
+        <section class="section">
+          <div class="section-content">
+            <div class="task-group">
+              <ul class="item-container">
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10CPCalendar15CPCDateIntervalP5start10Foundation4DateVvp"></a>
+                    <a name="//apple_ref/swift/Property/start" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10CPCalendar15CPCDateIntervalP5start10Foundation4DateVvp">start</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Earliest date that is included in date interval.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="k">var</span> <span class="nv">start</span><span class="p">:</span> <span class="kt">Date</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/cleverpumpkin/cpcalendar-ios/tree/master/CPCalendar/Model/CPCDateInterval.swift#L31">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10CPCalendar15CPCDateIntervalP3end10Foundation4DateVvp"></a>
+                    <a name="//apple_ref/swift/Property/end" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10CPCalendar15CPCDateIntervalP3end10Foundation4DateVvp">end</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Earliest date that is not included in date interval and is later than <code><a href="../Protocols/CPCDateInterval.html#/s:10CPCalendar15CPCDateIntervalP5start10Foundation4DateVvp">start</a></code> (analogous to <code>Range &lt;Date&gt;.upperBound</code>).</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="k">var</span> <span class="nv">end</span><span class="p">:</span> <span class="kt">Date</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/cleverpumpkin/cpcalendar-ios/tree/master/CPCalendar/Model/CPCDateInterval.swift#L33">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10CPCalendar15CPCDateIntervalP8durationSdvp"></a>
+                    <a name="//apple_ref/swift/Property/duration" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10CPCalendar15CPCDateIntervalP8durationSdvp">duration</a>
+                    </code>
+                      <span class="declaration-note">
+                        Default implementation
+                      </span>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Duration of date interval. Default implementation returns <code>self.end.timeIntervalSice (self.start)</code>.</p>
+
+                      </div>
+                      <h4>Default Implementation</h4>
+                      <div class="default_impl abstract">
+                        
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="k">var</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt">TimeInterval</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/cleverpumpkin/cpcalendar-ios/tree/master/CPCalendar/Model/CPCDateInterval.swift#L35">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10CPCalendar15CPCDateIntervalP8containsSbqd__s15RangeExpressionRd__10Foundation4DateV5BoundRtd__lF"></a>
+                    <a name="//apple_ref/swift/Method/contains(_:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10CPCalendar15CPCDateIntervalP8containsSbqd__s15RangeExpressionRd__10Foundation4DateV5BoundRtd__lF">contains(_:)</a>
+                    </code>
+                      <span class="declaration-note">
+                        Default implementation
+                      </span>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Returns a Boolean value indicating whether this date interval is fully contained or is equal to the given range.</p>
+
+                      </div>
+                      <h4>Default Implementation</h4>
+                      <div class="default_impl abstract">
+                        <p>Undocumented</p>
+<p>Undocumented</p>
+<p>Undocumented</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="n">contains</span><span class="o">&lt;</span><span class="kt">R</span><span class="o">&gt;</span><span class="p">(</span><span class="n">_</span> <span class="nv">dateInterval</span><span class="p">:</span> <span class="kt">R</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span> <span class="k">where</span> <span class="kt">R</span> <span class="p">:</span> <span class="kt">RangeExpression</span><span class="p">,</span> <span class="kt">R</span><span class="o">.</span><span class="kt">Bound</span> <span class="o">==</span> <span class="kt">Date</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div>
+                        <h4>Parameters</h4>
+                        <table class="graybox">
+                          <tbody>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>dateInterval</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>An interval to check.</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                      <div>
+                        <h4>Return Value</h4>
+                        <p><code>true</code> if <code>dateInterval</code> is contained in this one; otherwise, <code>false</code>.</p>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/cleverpumpkin/cpcalendar-ios/tree/master/CPCalendar/Model/CPCDateInterval.swift#L41">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10CPCalendar15CPCDateIntervalP8containsSbqd__AaBRd__lF"></a>
+                    <a name="//apple_ref/swift/Method/contains(_:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10CPCalendar15CPCDateIntervalP8containsSbqd__AaBRd__lF">contains(_:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Returns a Boolean value indicating whether this date interval is fully contained or is equal to the given range.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="n">contains</span><span class="o">&lt;</span><span class="kt">R</span><span class="o">&gt;</span><span class="p">(</span><span class="n">_</span> <span class="nv">dateInterval</span><span class="p">:</span> <span class="kt">R</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span> <span class="k">where</span> <span class="kt">R</span> <span class="p">:</span> <span class="kt">CPCDateInterval</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div>
+                        <h4>Parameters</h4>
+                        <table class="graybox">
+                          <tbody>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>dateInterval</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>An interval to check.</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                      <div>
+                        <h4>Return Value</h4>
+                        <p><code>true</code> if <code>dateInterval</code> is contained in this one; otherwise, <code>false</code>.</p>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/cleverpumpkin/cpcalendar-ios/tree/master/CPCalendar/Model/CPCDateInterval.swift#L46">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <div class="task-name-container">
+                <a name="/Default%20implementations"></a>
+                <a name="//apple_ref/swift/Section/Default implementations" class="dashAnchor"></a>
+                <a href="#/Default%20implementations">
+                  <h3 class="section-name">Default implementations</h3>
+                </a>
+              </div>
+              <ul class="item-container">
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:s15RangeExpressionP8relatives0A0Vy5BoundQzGqd__2to_ts10CollectionRd__5IndexQyd__AGRSlF"></a>
+                    <a name="//apple_ref/swift/Method/relative(to:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:s15RangeExpressionP8relatives0A0Vy5BoundQzGqd__2to_ts10CollectionRd__5IndexQyd__AGRSlF">relative(to:)</a>
+                    </code>
+                      <span class="declaration-note">
+                        Extension method
+                      </span>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="n">relative</span><span class="o">&lt;</span><span class="kt">C</span><span class="o">&gt;</span><span class="p">(</span><span class="n">to</span> <span class="nv">collection</span><span class="p">:</span> <span class="kt">C</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Range</span><span class="o">&lt;</span><span class="kt">Date</span><span class="o">&gt;</span> <span class="k">where</span> <span class="kt">C</span> <span class="p">:</span> <span class="kt">Collection</span><span class="p">,</span> <span class="kt">C</span><span class="o">.</span><span class="kt">Index</span> <span class="o">==</span> <span class="kt">Date</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/cleverpumpkin/cpcalendar-ios/tree/master/CPCalendar/Model/CPCDateInterval.swift#L83-L85">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <div class="task-name-container">
+                <a name="/Default%20implementations2"></a>
+                <a name="//apple_ref/swift/Section/Default implementations" class="dashAnchor"></a>
+                <a href="#/Default%20implementations2">
+                  <h3 class="section-name">Default implementations</h3>
+                </a>
+              </div>
+              <ul class="item-container">
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10CPCalendar15CPCDateIntervalPAAs10StrideableRzrlE4prevxvp"></a>
+                    <a name="//apple_ref/swift/Property/prev" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10CPCalendar15CPCDateIntervalPAAs10StrideableRzrlE4prevxvp">prev</a>
+                    </code>
+                      <span class="declaration-note">
+                        Extension method
+                      </span>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Previous interval (an interval that has the same <code><a href="../Protocols/CPCDateInterval.html#/s:10CPCalendar15CPCDateIntervalP8durationSdvp">duration</a></code> and <code><a href="../Protocols/CPCDateInterval.html#/s:10CPCalendar15CPCDateIntervalP3end10Foundation4DateVvp">end</a></code>s when this interval <code><a href="../Protocols/CPCDateInterval.html#/s:10CPCalendar15CPCDateIntervalP5start10Foundation4DateVvp">start</a></code>s).</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">prev</span><span class="p">:</span> <span class="k">Self</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/cleverpumpkin/cpcalendar-ios/tree/master/CPCalendar/Model/CPCDateInterval.swift#L102-L104">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10CPCalendar15CPCDateIntervalPAAs10StrideableRzrlE4nextxvp"></a>
+                    <a name="//apple_ref/swift/Property/next" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10CPCalendar15CPCDateIntervalPAAs10StrideableRzrlE4nextxvp">next</a>
+                    </code>
+                      <span class="declaration-note">
+                        Extension method
+                      </span>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Next interval (an interval that has the same <code><a href="../Protocols/CPCDateInterval.html#/s:10CPCalendar15CPCDateIntervalP8durationSdvp">duration</a></code> and <code><a href="../Protocols/CPCDateInterval.html#/s:10CPCalendar15CPCDateIntervalP5start10Foundation4DateVvp">start</a></code>s when this interval <code><a href="../Protocols/CPCDateInterval.html#/s:10CPCalendar15CPCDateIntervalP3end10Foundation4DateVvp">end</a></code>s).</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">next</span><span class="p">:</span> <span class="k">Self</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/cleverpumpkin/cpcalendar-ios/tree/master/CPCalendar/Model/CPCDateInterval.swift#L107-L109">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+      </article>
+    </div>
+    <section class="footer">
+      <p>&copy; 2018 <a class="link" href="http://cleverpumpkin.ru" target="_blank" rel="external">Cleverpumpkin, Ltd.</a>. All rights reserved. (Last updated: 2018-05-23)</p>
+      <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.9.3</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+    </section>
+  </body>
+</div>
+</html>

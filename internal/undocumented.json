@@ -1,0 +1,3526 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCCalendarUnit_CalendarWrapper.swift",
+      "line": 46,
+      "symbol": "CPCCalendarUnit.CalendarWrapper",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCCompoundCalendarUnit.swift",
+      "line": 40,
+      "symbol": "CPCCompoundCalendarUnit.startIndex",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCCompoundCalendarUnit.swift",
+      "line": 44,
+      "symbol": "CPCCompoundCalendarUnit.endIndex",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCCompoundCalendarUnit.swift",
+      "line": 48,
+      "symbol": "CPCCompoundCalendarUnit.index(of:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCCompoundCalendarUnit.swift",
+      "line": 64,
+      "symbol": "CPCCompoundCalendarUnit.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCDateInterval.swift",
+      "line": 87,
+      "symbol": "CPCDateInterval.contains(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCDateInterval.swift",
+      "line": 91,
+      "symbol": "CPCDateInterval.contains(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCDateInterval.swift",
+      "line": 95,
+      "symbol": "CPCDateInterval.contains(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCDateInterval.swift",
+      "line": 113,
+      "symbol": "CPCDateIntervalInitializable.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCDateInterval.swift",
+      "line": 117,
+      "symbol": "CPCDateIntervalInitializable.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCDateInterval.swift",
+      "line": 121,
+      "symbol": "CPCDateIntervalInitializable.clamped(to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCDateInterval.swift",
+      "line": 125,
+      "symbol": "CPCDateIntervalInitializable.clamped(to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCDay.swift",
+      "line": null,
+      "symbol": "CPCDay.BackingStorage",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCDay.swift",
+      "line": null,
+      "symbol": "CPCDay.BackingStorage",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCDay.swift",
+      "line": null,
+      "symbol": "CPCDay.BackingStorage",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCDay.swift",
+      "line": 30,
+      "symbol": "CPCDay.BackingStorage",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCDay.swift",
+      "line": 31,
+      "symbol": "CPCDay.BackingStorage.day",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCDay.swift",
+      "line": 33,
+      "symbol": "CPCDay.BackingStorage.month",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCDay.swift",
+      "line": 36,
+      "symbol": "CPCDay.BackingStorage.year",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCDay.swift",
+      "line": 40,
+      "symbol": "CPCDay.BackingStorage.containingYear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCDay.swift",
+      "line": 44,
+      "symbol": "CPCDay.BackingStorage.containingMonth(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCDay.swift",
+      "line": 52,
+      "symbol": "CPCDay.requiredComponents",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCMonth.swift",
+      "line": null,
+      "symbol": "CPCMonth.BackingStorage",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCMonth.swift",
+      "line": null,
+      "symbol": "CPCMonth.BackingStorage",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCMonth.swift",
+      "line": null,
+      "symbol": "CPCMonth.BackingStorage",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCMonth.swift",
+      "line": 31,
+      "symbol": "CPCMonth.BackingStorage",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCMonth.swift",
+      "line": 32,
+      "symbol": "CPCMonth.BackingStorage.month",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCMonth.swift",
+      "line": 34,
+      "symbol": "CPCMonth.BackingStorage.year",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCMonth.swift",
+      "line": 38,
+      "symbol": "CPCMonth.BackingStorage.containingYear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCWeek.swift",
+      "line": null,
+      "symbol": "CPCWeek.BackingStorage",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCWeek.swift",
+      "line": 31,
+      "symbol": "CPCWeek.BackingStorage",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCWeek.swift",
+      "line": 44,
+      "symbol": "CPCWeek.startDate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCWeek.swift",
+      "line": 51,
+      "symbol": "CPCWeek.indices(for:using:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCYear.swift",
+      "line": null,
+      "symbol": "CPCYear.BackingStorage",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCYear.swift",
+      "line": null,
+      "symbol": "CPCYear.BackingStorage",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCYear.swift",
+      "line": null,
+      "symbol": "CPCYear.BackingStorage",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCYear.swift",
+      "line": 31,
+      "symbol": "CPCYear.BackingStorage",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Model/CPCYear.swift",
+      "line": 32,
+      "symbol": "CPCYear.BackingStorage.year",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": null,
+      "symbol": "ComputedCollection",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": null,
+      "symbol": "ComputedCollection",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": null,
+      "symbol": "ComputedCollection",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": null,
+      "symbol": "ComputedCollection",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": null,
+      "symbol": "ComputedCollection",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": null,
+      "symbol": "ComputedCollection",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": null,
+      "symbol": "ComputedCollection",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": null,
+      "symbol": "ComputedCollection",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": null,
+      "symbol": "ComputedCollection",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": null,
+      "symbol": "ComputedCollection",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": null,
+      "symbol": "ComputedIndices",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": null,
+      "symbol": "ComputedIndices",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": null,
+      "symbol": "ComputedIndices",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 26,
+      "symbol": "ComputedCollection",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 48,
+      "symbol": "ComputedCollection.init(indices:subscript:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 52,
+      "symbol": "ComputedCollection.init(indices:subscript:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 128,
+      "symbol": "ComputedIndices",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 132,
+      "symbol": "ComputedIndices.init(_:end:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 139,
+      "symbol": "ComputedIndices.init(_:end:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 176,
+      "symbol": "ComputedIndices.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 180,
+      "symbol": "ComputedIndices.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 233,
+      "symbol": "ComputedArray",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 236,
+      "symbol": "ComputedCollection.init(_:subscript:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 240,
+      "symbol": "ComputedCollection.init(_:subscript:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 246,
+      "symbol": "ComputedCollection.init(_:subscript:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 250,
+      "symbol": "ComputedCollection.init(_:subscript:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 256,
+      "symbol": "ComputedCollection.init(_:subscript:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 260,
+      "symbol": "ComputedCollection.init(_:subscript:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 266,
+      "symbol": "ComputedCollection.init(_:subscript:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 270,
+      "symbol": "ComputedCollection.init(_:subscript:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 276,
+      "symbol": "ComputedCollection.init(_:subscript:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 280,
+      "symbol": "ComputedCollection.init(_:subscript:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 286,
+      "symbol": "ComputedCollection.init(_:subscript:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 290,
+      "symbol": "ComputedCollection.init(_:subscript:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 296,
+      "symbol": "ComputedCollection.init(_:subscript:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 300,
+      "symbol": "ComputedCollection.init(_:subscript:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 306,
+      "symbol": "ComputedCollection.init(_:subscript:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ComputedCollection.swift",
+      "line": 310,
+      "symbol": "ComputedCollection.init(_:subscript:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/FloatingPointRounding.swift",
+      "line": 26,
+      "symbol": "FloatingPoint.rounded(scale:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/FloatingPointRounding.swift",
+      "line": 30,
+      "symbol": "FloatingPoint.rounded(_:scale:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/FloatingPointRounding.swift",
+      "line": 36,
+      "symbol": "BinaryFloatingPoint.integerRounded(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/GridIndices.swift",
+      "line": null,
+      "symbol": "GridIndices",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/GridIndices.swift",
+      "line": null,
+      "symbol": "GridIndices",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/GridIndices.swift",
+      "line": 26,
+      "symbol": "GridIndices",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/GridIndices.swift",
+      "line": 38,
+      "symbol": "GridIndices.Element.row",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/GridIndices.swift",
+      "line": 42,
+      "symbol": "GridIndices.Element.column",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/GridIndices.swift",
+      "line": 155,
+      "symbol": "GridIndices.minElement",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/GridIndices.swift",
+      "line": 159,
+      "symbol": "GridIndices.maxElement",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/GridIndices.swift",
+      "line": 163,
+      "symbol": "GridIndices.rows",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/GridIndices.swift",
+      "line": 167,
+      "symbol": "GridIndices.columns",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/GridIndices.swift",
+      "line": 182,
+      "symbol": "GridIndices.init(rowCount:columnCount:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/GridIndices.swift",
+      "line": 187,
+      "symbol": "GridIndices.indices(filteredUsing:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/GridIndices.swift",
+      "line": 191,
+      "symbol": "GridIndices.subindices(forRows:columns:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/GridIndices.swift",
+      "line": 204,
+      "symbol": "GridIndices.index(forRow:column:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/GridIndices.swift",
+      "line": 208,
+      "symbol": "GridIndices.convert(index:from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/GridIndices.swift",
+      "line": 212,
+      "symbol": "GridIndices.convert(index:to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/NSParagraphStyle_convenience.swift",
+      "line": 34,
+      "symbol": "NSParagraphStyle.centeredWithTailTruncation",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/NSParagraphStyle_convenience.swift",
+      "line": 35,
+      "symbol": "NSParagraphStyle.centeredWithMiddleTruncation",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": null,
+      "symbol": "BoundedRangeProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": null,
+      "symbol": "BoundedRangeProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": null,
+      "symbol": "ClosedRangeBaseProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": null,
+      "symbol": "ClosedRangeBaseProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": null,
+      "symbol": "ClosedRangeBaseProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": null,
+      "symbol": "RangeBaseProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": null,
+      "symbol": "RangeBaseProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": null,
+      "symbol": "RangeBaseProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 26,
+      "symbol": "BoundLocation",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 27,
+      "symbol": "BoundLocation.emptyRange",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 28,
+      "symbol": "BoundLocation.beforeLowerBound",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 29,
+      "symbol": "BoundLocation.inside",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 30,
+      "symbol": "BoundLocation.afterUpperBound",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 33,
+      "symbol": "BoundedRangeProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 34,
+      "symbol": "BoundedRangeProtocol.lowerBound",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 35,
+      "symbol": "BoundedRangeProtocol.upperBound",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 36,
+      "symbol": "BoundedRangeProtocol.isEmpty",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 38,
+      "symbol": "BoundedRangeProtocol.init(uncheckedBounds:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 39,
+      "symbol": "BoundedRangeProtocol.init(bounds:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 40,
+      "symbol": "BoundedRangeProtocol.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 42,
+      "symbol": "BoundedRangeProtocol.location(of:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 44,
+      "symbol": "BoundedRangeProtocol.formsContiguousUnion(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 45,
+      "symbol": "BoundedRangeProtocol.formsContiguousUnion(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 46,
+      "symbol": "BoundedRangeProtocol.contiguousUnion(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 47,
+      "symbol": "BoundedRangeProtocol.contiguousUnion(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 48,
+      "symbol": "BoundedRangeProtocol.union(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 49,
+      "symbol": "BoundedRangeProtocol.union(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 50,
+      "symbol": "BoundedRangeProtocol.clamp(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 54,
+      "symbol": "BoundedRangeProtocol.isEmpty",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 58,
+      "symbol": "BoundedRangeProtocol.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 62,
+      "symbol": "BoundedRangeProtocol.init(bounds:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 66,
+      "symbol": "BoundedRangeProtocol.location(of:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 83,
+      "symbol": "BoundedRangeProtocol.formsContiguousUnion(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 87,
+      "symbol": "BoundedRangeProtocol.formsContiguousUnion(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 91,
+      "symbol": "BoundedRangeProtocol.contiguousUnion(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 102,
+      "symbol": "BoundedRangeProtocol.contiguousUnion(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 112,
+      "symbol": "BoundedRangeProtocol.union(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 125,
+      "symbol": "BoundedRangeProtocol.union(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 138,
+      "symbol": "BoundedRangeProtocol.clamp(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 151,
+      "symbol": "BoundedRangeProtocol.span",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 155,
+      "symbol": "BoundedRangeProtocol.formsContiguousUnion(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 169,
+      "symbol": "BoundedRangeProtocol.contiguousUnion(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 185,
+      "symbol": "BoundedRangeProtocol.clamp(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 202,
+      "symbol": "RangeBaseProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 203,
+      "symbol": "RangeBaseProtocol.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 207,
+      "symbol": "RangeBaseProtocol.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 215,
+      "symbol": "ClosedRangeBaseProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 216,
+      "symbol": "ClosedRangeBaseProtocol.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 220,
+      "symbol": "ClosedRangeBaseProtocol.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 229,
+      "symbol": "RangeBaseProtocol.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 235,
+      "symbol": "RangeBaseProtocol.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 241,
+      "symbol": "ClosedRangeBaseProtocol.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionInitialization.swift",
+      "line": 247,
+      "symbol": "ClosedRangeBaseProtocol.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionUnwrap.swift",
+      "line": 97,
+      "symbol": "RangeExpression.unwrapped",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionUnwrap.swift",
+      "line": 107,
+      "symbol": "RangeExpression.unwrapped",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/RangeExpressionUnwrap.swift",
+      "line": 117,
+      "symbol": "RangeExpression.unwrapped",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/SingleElementOperations.swift",
+      "line": 27,
+      "symbol": "RangeReplaceableCollection.+(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/SingleElementOperations.swift",
+      "line": 31,
+      "symbol": "RangeReplaceableCollection.+(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/SingleElementOperations.swift",
+      "line": 35,
+      "symbol": "RangeReplaceableCollection.+=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/SingleElementOperations.swift",
+      "line": 51,
+      "symbol": "Set.union(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/SingleElementOperations.swift",
+      "line": 55,
+      "symbol": "Set.subtracting(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": null,
+      "symbol": "ThreadsafeStorage",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": null,
+      "symbol": "ThreadsafeStorage",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": null,
+      "symbol": "ThreadsafeStorage",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": 28,
+      "symbol": "ThreadsafeStorageLockWrapper",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": 29,
+      "symbol": "ThreadsafeStorageLockWrapper.lock()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": 30,
+      "symbol": "ThreadsafeStorageLockWrapper.unlock()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": 33,
+      "symbol": "ThreadsafeStorageLock",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": 34,
+      "symbol": "ThreadsafeStorageLock.makeLockWrapper()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": 88,
+      "symbol": "ThreadsafeStorageProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": 89,
+      "symbol": "ThreadsafeStorageProtocol.ValueType",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": 91,
+      "symbol": "ThreadsafeStorageProtocol.withStoredValue(perform:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": 92,
+      "symbol": "ThreadsafeStorageProtocol.withMutableStoredValue(perform:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": 95,
+      "symbol": "ThreadsafeStorage",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": 96,
+      "symbol": "ThreadsafeStorage.LockType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": 97,
+      "symbol": "ThreadsafeStorage.ValueType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": 109,
+      "symbol": "ThreadsafeStorage.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": 117,
+      "symbol": "ThreadsafeStorage.withStoredValue(perform:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": 126,
+      "symbol": "ThreadsafeStorage.withMutableStoredValue(perform:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": 145,
+      "symbol": "os_unfair_lock.makeLockWrapper()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": 151,
+      "symbol": "ThreadsafeStorage.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": 156,
+      "symbol": "UnfairThreadsafeStorage",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": 167,
+      "symbol": "DispatchSemaphore.makeLockWrapper()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/ThreadsafeStorage.swift",
+      "line": 173,
+      "symbol": "ThreadsafeStorage.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/UnownedArray.swift",
+      "line": null,
+      "symbol": "UnownedArray",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/UnownedArray.swift",
+      "line": 26,
+      "symbol": "UnownedArray",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/UnownedArray.swift",
+      "line": 62,
+      "symbol": "UnownedArray.index(before:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/guarantee.swift",
+      "line": 26,
+      "symbol": "guarantee(_:file:line:function:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/hash.swift",
+      "line": 26,
+      "symbol": "log2i(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/hash.swift",
+      "line": 43,
+      "symbol": "log2i(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/hash.swift",
+      "line": 47,
+      "symbol": "concatenateHashValues(_:_:shiftAmount:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/hash.swift",
+      "line": 51,
+      "symbol": "hashIntegers(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/Util/hash.swift",
+      "line": 55,
+      "symbol": "hashIntegers(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView.swift",
+      "line": null,
+      "symbol": "CPCCalendarView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView.swift",
+      "line": null,
+      "symbol": "CPCCalendarView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView.swift",
+      "line": null,
+      "symbol": "CPCCalendarView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView.swift",
+      "line": null,
+      "symbol": "CPCCalendarView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView.swift",
+      "line": null,
+      "symbol": "CPCCalendarView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView.swift",
+      "line": null,
+      "symbol": "CPCCalendarView.ScrollViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView.swift",
+      "line": 26,
+      "symbol": "CPCCalendarViewSelectionDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView.swift",
+      "line": 27,
+      "symbol": "CPCCalendarViewSelectionDelegate.selection",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView.swift",
+      "line": 29,
+      "symbol": "CPCCalendarViewSelectionDelegate.calendarView(_:shouldSelect:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView.swift",
+      "line": 30,
+      "symbol": "CPCCalendarViewSelectionDelegate.calendarView(_:shouldDeselect:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView.swift",
+      "line": 33,
+      "symbol": "CPCCalendarView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView.swift",
+      "line": 34,
+      "symbol": "CPCCalendarView.contentView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView.swift",
+      "line": 40,
+      "symbol": "CPCCalendarView.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView.swift",
+      "line": 49,
+      "symbol": "CPCCalendarView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView.swift",
+      "line": 71,
+      "symbol": "CPCCalendarView.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView.swift",
+      "line": 114,
+      "symbol": "CPCCalendarView.columnCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView.swift",
+      "line": 123,
+      "symbol": "CPCCalendarView.columnContentInsets",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView_ProtocolConformances.swift",
+      "line": 27,
+      "symbol": "CPCCalendarView.titleFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView_ProtocolConformances.swift",
+      "line": 32,
+      "symbol": "CPCCalendarView.titleColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView_ProtocolConformances.swift",
+      "line": 37,
+      "symbol": "CPCCalendarView.titleStyle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView_ProtocolConformances.swift",
+      "line": 42,
+      "symbol": "CPCCalendarView.titleMargins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView_ProtocolConformances.swift",
+      "line": 47,
+      "symbol": "CPCCalendarView.dayCellFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView_ProtocolConformances.swift",
+      "line": 52,
+      "symbol": "CPCCalendarView.dayCellTextColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView_ProtocolConformances.swift",
+      "line": 57,
+      "symbol": "CPCCalendarView.separatorColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView_ProtocolConformances.swift",
+      "line": 62,
+      "symbol": "CPCCalendarView.cellRenderer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView_ProtocolConformances.swift",
+      "line": 67,
+      "symbol": "CPCCalendarView.dayCellBackgroundColor(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView_ProtocolConformances.swift",
+      "line": 71,
+      "symbol": "CPCCalendarView.setDayCellBackgroundColor(_:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView_ProtocolConformances.swift",
+      "line": 77,
+      "symbol": "CPCCalendarView.SelectionDelegateType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView_ProtocolConformances.swift",
+      "line": 79,
+      "symbol": "CPCCalendarView.selectionHandler",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView_ProtocolConformances.swift",
+      "line": 88,
+      "symbol": "CPCCalendarView.selectionValue(of:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView_ProtocolConformances.swift",
+      "line": 92,
+      "symbol": "CPCCalendarView.setSelectionValue(_:in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView_ProtocolConformances.swift",
+      "line": 96,
+      "symbol": "CPCCalendarView.resetSelection(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView_ProtocolConformances.swift",
+      "line": 98,
+      "symbol": "CPCCalendarView.handlerShouldSelectDayCell(_:delegate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView_ProtocolConformances.swift",
+      "line": 102,
+      "symbol": "CPCCalendarView.handlerShouldDeselectDayCell(_:delegate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCCalendarView_ProtocolConformances.swift",
+      "line": 108,
+      "symbol": "CPCCalendarView.adjustsFontForContentSizeCategory",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCDayCellState.swift",
+      "line": 109,
+      "symbol": "CPCDayCellState.AllCases",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCDayCellState.swift",
+      "line": 126,
+      "symbol": "CPCDayCellState.BackgroundState.allCases",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": null,
+      "symbol": "CPCMonthView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": null,
+      "symbol": "CPCMonthView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": null,
+      "symbol": "CPCMonthView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": null,
+      "symbol": "CPCMonthView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": null,
+      "symbol": "CPCMonthView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": null,
+      "symbol": "CPCMonthView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 30,
+      "symbol": "CPCMonthViewSelectionDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 31,
+      "symbol": "CPCMonthViewSelectionDelegate.selection",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 33,
+      "symbol": "CPCMonthViewSelectionDelegate.monthViewDidClearSelection(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 34,
+      "symbol": "CPCMonthViewSelectionDelegate.monthView(_:shouldSelect:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 35,
+      "symbol": "CPCMonthViewSelectionDelegate.monthView(_:shouldDeselect:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 38,
+      "symbol": "CPCMonthView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 41,
+      "symbol": "CPCMonthView.requiresConstraintBasedLayout",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 45,
+      "symbol": "CPCMonthView.month",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 51,
+      "symbol": "CPCMonthView.titleFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 60,
+      "symbol": "CPCMonthView.titleColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 69,
+      "symbol": "CPCMonthView.titleStyle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 78,
+      "symbol": "CPCMonthView.titleMargins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 88,
+      "symbol": "CPCMonthView.dayCellFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 97,
+      "symbol": "CPCMonthView.dayCellTextColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 106,
+      "symbol": "CPCMonthView.separatorColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 116,
+      "symbol": "CPCMonthView.cellRenderer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 126,
+      "symbol": "CPCMonthView.layout",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 135,
+      "symbol": "CPCMonthView.selectionHandler",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 141,
+      "symbol": "CPCMonthView.effectiveTitleFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 149,
+      "symbol": "CPCMonthView.effectiveTitleMargins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 157,
+      "symbol": "CPCMonthView.effectiveDayCellFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 163,
+      "symbol": "CPCMonthView.contentsUpdatesPaused",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 181,
+      "symbol": "CPCMonthView.contentSizeCategoryObserver",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 182,
+      "symbol": "CPCMonthView.appearanceStorage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 183,
+      "symbol": "CPCMonthView.highlightedDayIndex",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 193,
+      "symbol": "CPCMonthView.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 206,
+      "symbol": "CPCMonthView.init(frame:month:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 215,
+      "symbol": "CPCMonthView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 234,
+      "symbol": "CPCMonthView.deinit",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 240,
+      "symbol": "CPCMonthView.dayCellBackgroundColor(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 244,
+      "symbol": "CPCMonthView.setDayCellBackgroundColor(_:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 258,
+      "symbol": "CPCMonthView.setContentCompressionResistancePriority(_:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 265,
+      "symbol": "CPCMonthView.updateConstraints()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 273,
+      "symbol": "CPCMonthView.sizeThatFits(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 280,
+      "symbol": "CPCMonthView.setDefaultCellRendeder()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 284,
+      "symbol": "CPCMonthView.setNeedsDisplay(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 292,
+      "symbol": "CPCMonthView.draw(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 303,
+      "symbol": "CPCMonthView.beginTracking(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 311,
+      "symbol": "CPCMonthView.continueTracking(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 319,
+      "symbol": "CPCMonthView.endTracking(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 332,
+      "symbol": "CPCMonthView.cancelTracking(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 353,
+      "symbol": "CPCMonthView.adjustsFontForContentSizeCategory",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 358,
+      "symbol": "CPCMonthView.adjustValues(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 368,
+      "symbol": "CPCMonthView.SelectionDelegateType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 370,
+      "symbol": "CPCMonthView.selectionValue(of:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 374,
+      "symbol": "CPCMonthView.setSelectionValue(_:in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 378,
+      "symbol": "CPCMonthView.resetSelection(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 382,
+      "symbol": "CPCMonthView.handlerShouldSelectDayCell(_:delegate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 386,
+      "symbol": "CPCMonthView.handlerShouldDeselectDayCell(_:delegate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 392,
+      "symbol": "CPCMonthView.LayoutAttributes",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 397,
+      "symbol": "CPCMonthView.LayoutAttributes.roundingScale",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 401,
+      "symbol": "CPCMonthView.LayoutAttributes.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 409,
+      "symbol": "CPCMonthView.LayoutAttributes.init(month:separatorWidth:titleFont:titleMargins:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView.swift",
+      "line": 416,
+      "symbol": "CPCMonthView.layoutAttributes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_Layout.swift",
+      "line": 27,
+      "symbol": "UIView.separatorWidth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_Layout.swift",
+      "line": 36,
+      "symbol": "CPCMonthView.CellIndices",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_Layout.swift",
+      "line": 37,
+      "symbol": "CPCMonthView.CellIndex",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_Layout.swift",
+      "line": 39,
+      "symbol": "CPCMonthView.Layout",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_Layout.swift",
+      "line": 40,
+      "symbol": "CPCMonthView.Layout.SeparatorOrigins",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_Layout.swift",
+      "line": 42,
+      "symbol": "CPCMonthView.Layout.separatorWidth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_Layout.swift",
+      "line": 43,
+      "symbol": "CPCMonthView.Layout.titleFrame",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_Layout.swift",
+      "line": 44,
+      "symbol": "CPCMonthView.Layout.gridFrame",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_Layout.swift",
+      "line": 45,
+      "symbol": "CPCMonthView.Layout.cellFrames",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_Layout.swift",
+      "line": 46,
+      "symbol": "CPCMonthView.Layout.separatorOrigins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_Layout.swift",
+      "line": 48,
+      "symbol": "CPCMonthView.Layout.titleContentFrame",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_Layout.swift",
+      "line": 65,
+      "symbol": "CPCMonthView.Layout.init(view:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_Layout.swift",
+      "line": 120,
+      "symbol": "CPCMonthView.Layout.isValid(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_Layout.swift",
+      "line": 159,
+      "symbol": "CPCMonthView.Layout.cellIndex(at:treatingSeparatorPointsAsEarlierIndexes:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_Layout.swift",
+      "line": 180,
+      "symbol": "CPCMonthView.Layout.cellIndex(forRow:column:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_Layout.swift",
+      "line": 184,
+      "symbol": "CPCMonthView.Layout.horizontalSeparatorIndexes(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_Layout.swift",
+      "line": 188,
+      "symbol": "CPCMonthView.Layout.verticalSeparatorIndexes(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_RedrawContext.swift",
+      "line": null,
+      "symbol": "CPCMonthViewRedrawContextImpl",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_RedrawContext.swift",
+      "line": 116,
+      "symbol": "CPCMonthViewRedrawContext",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_RedrawContext.swift",
+      "line": 123,
+      "symbol": "CPCMonthView.RedrawContext",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_RedrawContext.swift",
+      "line": 147,
+      "symbol": "CPCMonthView.titleRedrawContext(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMonthView_RedrawContext.swift",
+      "line": 151,
+      "symbol": "CPCMonthView.gridRedrawContext(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": null,
+      "symbol": "CPCMultiMonthsView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": null,
+      "symbol": "CPCMultiMonthsView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": null,
+      "symbol": "CPCMultiMonthsView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 32,
+      "symbol": "CPCMultiMonthsViewSelectionDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 33,
+      "symbol": "CPCMultiMonthsViewSelectionDelegate.selection",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 35,
+      "symbol": "CPCMultiMonthsViewSelectionDelegate.multiMonthView(_:shouldSelect:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 36,
+      "symbol": "CPCMultiMonthsViewSelectionDelegate.multiMonthView(_:shouldDeselect:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 39,
+      "symbol": "CPCMultiMonthsView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 40,
+      "symbol": "CPCMultiMonthsView.titleFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 49,
+      "symbol": "CPCMultiMonthsView.titleColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 58,
+      "symbol": "CPCMultiMonthsView.titleStyle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 67,
+      "symbol": "CPCMultiMonthsView.titleMargins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 77,
+      "symbol": "CPCMultiMonthsView.dayCellFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 86,
+      "symbol": "CPCMultiMonthsView.dayCellTextColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 95,
+      "symbol": "CPCMultiMonthsView.separatorColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 105,
+      "symbol": "CPCMultiMonthsView.cellRenderer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 115,
+      "symbol": "CPCMultiMonthsView.adjustsFontForContentSizeCategory",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 121,
+      "symbol": "CPCMultiMonthsView.monthViews",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 122,
+      "symbol": "CPCMultiMonthsView.appearanceStorage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 126,
+      "symbol": "CPCMultiMonthsView.dayCellBackgroundColor(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 130,
+      "symbol": "CPCMultiMonthsView.setDayCellBackgroundColor(_:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 143,
+      "symbol": "CPCMultiMonthsView.addMonthView(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 147,
+      "symbol": "CPCMultiMonthsView.insertMonthView(_:at:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 162,
+      "symbol": "CPCMultiMonthsView.removeMonthView(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 169,
+      "symbol": "CPCMultiMonthsView.willRemoveSubview(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 180,
+      "symbol": "CPCMultiMonthsView.SelectionDelegateType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 203,
+      "symbol": "CPCMultiMonthsView.selectionHandler",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 232,
+      "symbol": "CPCMultiMonthsView.selectionValue(of:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 236,
+      "symbol": "CPCMultiMonthsView.setSelectionValue(_:in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 240,
+      "symbol": "CPCMultiMonthsView.resetSelection(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 242,
+      "symbol": "CPCMultiMonthsView.handlerShouldSelectDayCell(_:delegate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCMultiMonthsView.swift",
+      "line": 246,
+      "symbol": "CPCMultiMonthsView.handlerShouldDeselectDayCell(_:delegate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewContentAdjusting.swift",
+      "line": null,
+      "symbol": "CPCViewContentAdjusting",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewContentAdjusting.swift",
+      "line": 26,
+      "symbol": "CPCViewContentAdjusting",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewContentAdjusting.swift",
+      "line": 27,
+      "symbol": "CPCViewContentAdjusting.contentSizeCategoryObserver",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewContentAdjusting.swift",
+      "line": 29,
+      "symbol": "CPCViewContentAdjusting.scaledValue(_:using:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewContentAdjusting.swift",
+      "line": 30,
+      "symbol": "CPCViewContentAdjusting.scaledValue(_:using:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewContentAdjusting.swift",
+      "line": 31,
+      "symbol": "CPCViewContentAdjusting.scaledInsets(_:using:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewContentAdjusting.swift",
+      "line": 32,
+      "symbol": "CPCViewContentAdjusting.scaledInsets(_:using:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewContentAdjusting.swift",
+      "line": 33,
+      "symbol": "CPCViewContentAdjusting.scaledFont(_:using:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewContentAdjusting.swift",
+      "line": 34,
+      "symbol": "CPCViewContentAdjusting.scaledFont(_:using:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewContentAdjusting.swift",
+      "line": 36,
+      "symbol": "CPCViewContentAdjusting.adjustValuesForCurrentContentSizeCategory()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewContentAdjusting.swift",
+      "line": 37,
+      "symbol": "CPCViewContentAdjusting.adjustValues(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewContentAdjusting.swift",
+      "line": 41,
+      "symbol": "CPCViewContentAdjusting.adjustsFontForContentSizeCategoryValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewContentAdjusting.swift",
+      "line": 64,
+      "symbol": "CPCViewContentAdjusting.scaledValue(_:using:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewContentAdjusting.swift",
+      "line": 68,
+      "symbol": "CPCViewContentAdjusting.scaledValue(_:using:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewContentAdjusting.swift",
+      "line": 72,
+      "symbol": "CPCViewContentAdjusting.scaledInsets(_:using:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewContentAdjusting.swift",
+      "line": 76,
+      "symbol": "CPCViewContentAdjusting.scaledInsets(_:using:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewContentAdjusting.swift",
+      "line": 80,
+      "symbol": "CPCViewContentAdjusting.scaledFont(_:using:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewContentAdjusting.swift",
+      "line": 84,
+      "symbol": "CPCViewContentAdjusting.scaledFont(_:using:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewContentAdjusting.swift",
+      "line": 88,
+      "symbol": "CPCViewContentAdjusting.adjustValuesForCurrentContentSizeCategory()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewMeasuring.swift",
+      "line": null,
+      "symbol": "CPCFixedAspectRatioView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewMeasuring.swift",
+      "line": null,
+      "symbol": "CPCFixedAspectRatioView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewMeasuring.swift",
+      "line": null,
+      "symbol": "CPCViewMeasuring",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewMeasuring.swift",
+      "line": 70,
+      "symbol": "CPCViewLayoutAttributes",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewMeasuring.swift",
+      "line": 71,
+      "symbol": "CPCViewLayoutAttributes.roundingScale",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewMeasuring.swift",
+      "line": 74,
+      "symbol": "CPCViewMeasuring",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewMeasuring.swift",
+      "line": 75,
+      "symbol": "CPCViewMeasuring.LayoutAttributes",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewMeasuring.swift",
+      "line": 77,
+      "symbol": "CPCViewMeasuring.sizeThatFits(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewMeasuring.swift",
+      "line": 78,
+      "symbol": "CPCViewMeasuring.widthThatFits(height:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewMeasuring.swift",
+      "line": 79,
+      "symbol": "CPCViewMeasuring.heightThatFits(width:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewMeasuring.swift",
+      "line": 81,
+      "symbol": "CPCViewMeasuring.layoutAttributes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewMeasuring.swift",
+      "line": 83,
+      "symbol": "CPCViewMeasuring.sizeThatFits(_:attributes:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewMeasuring.swift",
+      "line": 87,
+      "symbol": "CPCViewMeasuring.widthThatFits(height:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewMeasuring.swift",
+      "line": 91,
+      "symbol": "CPCViewMeasuring.heightThatFits(width:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewMeasuring.swift",
+      "line": 95,
+      "symbol": "CPCViewMeasuring.sizeThatFits(_:attributes:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewMeasuring.swift",
+      "line": 100,
+      "symbol": "CPCFixedAspectRatioView",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewMeasuring.swift",
+      "line": 109,
+      "symbol": "CPCFixedAspectRatioView.widthThatFits(height:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewMeasuring.swift",
+      "line": 117,
+      "symbol": "CPCFixedAspectRatioView.heightThatFits(width:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewMeasuring.swift",
+      "line": 125,
+      "symbol": "CPCFixedAspectRatioView.sizeThatFits(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewMeasuring.swift",
+      "line": 145,
+      "symbol": "CPCFixedAspectRatioView.aspectRatioLayoutConstraint(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": null,
+      "symbol": "CPCViewBackedByAppearanceStorage",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": null,
+      "symbol": "CPCViewDayCellStateBackgroundColors",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": null,
+      "symbol": "CPCViewDayCellStateBackgroundColors",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": null,
+      "symbol": "CPCViewProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": null,
+      "symbol": "CPCViewProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 26,
+      "symbol": "CPCViewDayCellStateBackgroundColors",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 29,
+      "symbol": "CPCViewDayCellStateBackgroundColors.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 39,
+      "symbol": "CPCViewDayCellStateBackgroundColors.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 43,
+      "symbol": "CPCViewDayCellStateBackgroundColors.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 111,
+      "symbol": "CPCViewAppearanceStorage",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 112,
+      "symbol": "CPCViewAppearanceStorage.titleFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 113,
+      "symbol": "CPCViewAppearanceStorage.titleColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 114,
+      "symbol": "CPCViewAppearanceStorage.titleStyle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 115,
+      "symbol": "CPCViewAppearanceStorage.titleMargins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 116,
+      "symbol": "CPCViewAppearanceStorage.dayCellFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 117,
+      "symbol": "CPCViewAppearanceStorage.dayCellTextColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 118,
+      "symbol": "CPCViewAppearanceStorage.separatorColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 119,
+      "symbol": "CPCViewAppearanceStorage.cellRenderer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 120,
+      "symbol": "CPCViewAppearanceStorage.cellBackgroundColors",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 123,
+      "symbol": "CPCViewProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 124,
+      "symbol": "CPCViewProtocol.TitleStyle",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 125,
+      "symbol": "CPCViewProtocol.DayCellState",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 126,
+      "symbol": "CPCViewProtocol.Selection",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 127,
+      "symbol": "CPCViewProtocol.CellRenderer",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 129,
+      "symbol": "CPCViewProtocol.titleFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 130,
+      "symbol": "CPCViewProtocol.titleColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 131,
+      "symbol": "CPCViewProtocol.titleStyle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 132,
+      "symbol": "CPCViewProtocol.titleMargins",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 133,
+      "symbol": "CPCViewProtocol.dayCellFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 134,
+      "symbol": "CPCViewProtocol.dayCellTextColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 135,
+      "symbol": "CPCViewProtocol.separatorColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 136,
+      "symbol": "CPCViewProtocol.selection",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 137,
+      "symbol": "CPCViewProtocol.cellRenderer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 139,
+      "symbol": "CPCViewProtocol.dayCellBackgroundColor(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 140,
+      "symbol": "CPCViewProtocol.setDayCellBackgroundColor(_:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 144,
+      "symbol": "CPCViewProtocol.copyStyle(from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 158,
+      "symbol": "CPCViewBackedByAppearanceStorage",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 159,
+      "symbol": "CPCViewBackedByAppearanceStorage.appearanceStorage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 163,
+      "symbol": "CPCViewBackedByAppearanceStorage.AppearanceStorage",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol.swift",
+      "line": 165,
+      "symbol": "CPCViewBackedByAppearanceStorage.copyStyle(from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol_ObjCSupport.swift",
+      "line": 34,
+      "symbol": "CPCMonthView.titleTemplate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol_ObjCSupport.swift",
+      "line": 40,
+      "symbol": "CPCMonthView.titleFormat",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol_ObjCSupport.swift",
+      "line": 45,
+      "symbol": "CPCMonthView.dayCellBackgroundColor(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol_ObjCSupport.swift",
+      "line": 49,
+      "symbol": "CPCMonthView.setDayCellBackgroundColor(_:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol_ObjCSupport.swift",
+      "line": 56,
+      "symbol": "CPCMultiMonthsView.titleTemplate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol_ObjCSupport.swift",
+      "line": 62,
+      "symbol": "CPCMultiMonthsView.titleFormat",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol_ObjCSupport.swift",
+      "line": 67,
+      "symbol": "CPCMultiMonthsView.dayCellBackgroundColor(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol_ObjCSupport.swift",
+      "line": 71,
+      "symbol": "CPCMultiMonthsView.setDayCellBackgroundColor(_:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol_ObjCSupport.swift",
+      "line": 78,
+      "symbol": "CPCCalendarView.titleTemplate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol_ObjCSupport.swift",
+      "line": 84,
+      "symbol": "CPCCalendarView.titleFormat",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol_ObjCSupport.swift",
+      "line": 89,
+      "symbol": "CPCCalendarView.dayCellBackgroundColor(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewProtocol_ObjCSupport.swift",
+      "line": 93,
+      "symbol": "CPCCalendarView.setDayCellBackgroundColor(_:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelection.swift",
+      "line": null,
+      "symbol": "CPCViewSelection",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelection.swift",
+      "line": null,
+      "symbol": "CPCViewSelection",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelection.swift",
+      "line": null,
+      "symbol": "CPCViewSelection",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelection.swift",
+      "line": 26,
+      "symbol": "CPCViewSelection",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelection.swift",
+      "line": 27,
+      "symbol": "CPCViewSelection.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelection.swift",
+      "line": 28,
+      "symbol": "CPCViewSelection.single",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelection.swift",
+      "line": 29,
+      "symbol": "CPCViewSelection.range",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelection.swift",
+      "line": 30,
+      "symbol": "CPCViewSelection.unordered",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelection.swift",
+      "line": 31,
+      "symbol": "CPCViewSelection.ordered",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionConvenience.swift",
+      "line": 27,
+      "symbol": "CPCViewSelection.isDaySelected(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionConvenience.swift",
+      "line": 42,
+      "symbol": "CPCViewSelection.isEmpty",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionConvenience.swift",
+      "line": 72,
+      "symbol": "CPCViewSelection.difference(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionConvenience.swift",
+      "line": 76,
+      "symbol": "CPCViewSelection.clamped(to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionConvenience.swift",
+      "line": 95,
+      "symbol": "CPCViewSelection.+=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionConvenience.swift",
+      "line": 166,
+      "symbol": "CPCViewSelection.+(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionConvenience.swift",
+      "line": 172,
+      "symbol": "CPCViewSelection.-=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionConvenience.swift",
+      "line": 238,
+      "symbol": "CPCViewSelection.-(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionConvenience.swift",
+      "line": 246,
+      "symbol": "CPCViewProtocol.allowsSelection",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionConvenience.swift",
+      "line": 258,
+      "symbol": "CPCViewProtocol.select(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionConvenience.swift",
+      "line": 262,
+      "symbol": "CPCViewProtocol.select(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionConvenience.swift",
+      "line": 266,
+      "symbol": "CPCViewProtocol.select(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionConvenience.swift",
+      "line": 270,
+      "symbol": "CPCViewProtocol.select(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionConvenience.swift",
+      "line": 274,
+      "symbol": "CPCViewProtocol.select(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionConvenience.swift",
+      "line": 278,
+      "symbol": "CPCViewProtocol.select(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionConvenience.swift",
+      "line": 282,
+      "symbol": "CPCViewProtocol.deselect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionConvenience.swift",
+      "line": 286,
+      "symbol": "CPCViewProtocol.deselect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionConvenience.swift",
+      "line": 290,
+      "symbol": "CPCViewProtocol.deselect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionConvenience.swift",
+      "line": 294,
+      "symbol": "CPCViewProtocol.deselect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionConvenience.swift",
+      "line": 298,
+      "symbol": "CPCViewProtocol.deselect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionConvenience.swift",
+      "line": 302,
+      "symbol": "CPCViewProtocol.deselect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": null,
+      "symbol": "CPCPrimitiveSelectionHandler",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": null,
+      "symbol": "CPCViewDelegatingSelectionHandling",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": null,
+      "symbol": "CPCViewSelectionHandling",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 26,
+      "symbol": "CPCViewSelectionHandlerProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 27,
+      "symbol": "CPCViewSelectionHandlerProtocol.Selection",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 29,
+      "symbol": "CPCViewSelectionHandlerProtocol.selection",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 31,
+      "symbol": "CPCViewSelectionHandlerProtocol.clearingSelection()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 32,
+      "symbol": "CPCViewSelectionHandlerProtocol.handleTap(day:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 35,
+      "symbol": "CPCPrimitiveSelectionHandler",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 36,
+      "symbol": "CPCPrimitiveSelectionHandler.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 40,
+      "symbol": "CPCPrimitiveSelectionHandler.clearingSelection()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 45,
+      "symbol": "CPCViewDefaultSelectionHandler",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 47,
+      "symbol": "CPCViewSelectionHandling",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 48,
+      "symbol": "CPCViewSelectionHandling.SelectionHandler",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 50,
+      "symbol": "CPCViewSelectionHandling.selectionHandler",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 54,
+      "symbol": "CPCViewSelectionHandling.Selection",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 56,
+      "symbol": "CPCViewSelectionHandling.selection",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 190,
+      "symbol": "CPCViewDelegatingSelectionHandling",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 191,
+      "symbol": "CPCViewDelegatingSelectionHandling.SelectionDelegateType",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 193,
+      "symbol": "CPCViewDelegatingSelectionHandling.selectionDelegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 195,
+      "symbol": "CPCViewDelegatingSelectionHandling.selectionValue(of:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 196,
+      "symbol": "CPCViewDelegatingSelectionHandling.setSelectionValue(_:in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 198,
+      "symbol": "CPCViewDelegatingSelectionHandling.resetSelection(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 199,
+      "symbol": "CPCViewDelegatingSelectionHandling.handlerShouldSelectDayCell(_:delegate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 200,
+      "symbol": "CPCViewDelegatingSelectionHandling.handlerShouldDeselectDayCell(_:delegate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 206,
+      "symbol": "CPCViewDelegatingSelectionHandling.selectionDelegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCViewSelectionHandling.swift",
+      "line": 221,
+      "symbol": "CPCViewDelegatingSelectionHandling.selection",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCWeekView.swift",
+      "line": null,
+      "symbol": "CPCWeekView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCWeekView.swift",
+      "line": 26,
+      "symbol": "CPCWeekView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCWeekView.swift",
+      "line": 29,
+      "symbol": "CPCWeekView.font",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCWeekView.swift",
+      "line": 35,
+      "symbol": "CPCWeekView.textColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCWeekView.swift",
+      "line": 41,
+      "symbol": "CPCWeekView.weekendColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCWeekView.swift",
+      "line": 47,
+      "symbol": "CPCWeekView.style",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCWeekView.swift",
+      "line": 53,
+      "symbol": "CPCWeekView.intrinsicContentSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCWeekView.swift",
+      "line": 57,
+      "symbol": "CPCWeekView.adjustsFontForContentSizeCategory",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCWeekView.swift",
+      "line": 62,
+      "symbol": "CPCWeekView.contentSizeCategoryObserver",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCWeekView.swift",
+      "line": 74,
+      "symbol": "CPCWeekView.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCWeekView.swift",
+      "line": 79,
+      "symbol": "CPCWeekView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCWeekView.swift",
+      "line": 89,
+      "symbol": "CPCWeekView.sizeThatFits(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCWeekView.swift",
+      "line": 93,
+      "symbol": "CPCWeekView.draw(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCWeekView.swift",
+      "line": 116,
+      "symbol": "CPCWeekView.adjustValues(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/cpcalendar-ios/CPCalendar/View/CPCWeekView.swift",
+      "line": 122,
+      "symbol": "CPCWeekView.cStyle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/byss/Repos/cpcalendar-ios/CPCalendar"
+}
