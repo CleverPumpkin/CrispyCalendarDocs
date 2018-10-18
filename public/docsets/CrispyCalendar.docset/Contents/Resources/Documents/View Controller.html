@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Views customization  Reference</title>
+    <title>View Controller  Reference</title>
     <link rel="stylesheet" type="text/css" href="css/jazzy.css" />
     <link rel="stylesheet" type="text/css" href="css/highlight.css" />
     <meta charset="utf-8">
@@ -14,9 +14,9 @@
   </head>
   <body>
 
-    <a name="//apple_ref/swift/Section/Views customization" class="dashAnchor"></a>
+    <a name="//apple_ref/swift/Section/View Controller" class="dashAnchor"></a>
 
-    <a title="Views customization  Reference"></a>
+    <a title="View Controller  Reference"></a>
 
     <header class="header">
       <p class="header-col header-col--primary">
@@ -50,7 +50,7 @@
     <p class="breadcrumbs">
       <a class="breadcrumb" href="index.html">CrispyCalendar Reference</a>
       <img class="carat" src="img/carat.png" />
-      Views customization  Reference
+      View Controller  Reference
     </p>
 
     <div class="content-wrapper">
@@ -179,7 +179,7 @@
 
         <section class="section">
           <div class="section-content">
-            <h1>Views customization</h1>
+            <h1>View Controller</h1>
             
           </div>
         </section>
@@ -191,9 +191,9 @@
                 <li class="item">
                   <div>
                     <code>
-                    <a name="/s:14CrispyCalendar17CPCViewTitleStyleV"></a>
-                    <a name="//apple_ref/swift/Struct/CPCViewTitleStyle" class="dashAnchor"></a>
-                    <a class="token" href="#/s:14CrispyCalendar17CPCViewTitleStyleV">CPCViewTitleStyle</a>
+                    <a name="/c:@M@CrispyCalendar@objc(cs)CPCCalendarViewController"></a>
+                    <a name="//apple_ref/swift/Class/CPCCalendarViewController" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@CrispyCalendar@objc(cs)CPCCalendarViewController">CPCCalendarViewController</a>
                     </code>
                   </div>
                   <div class="height-container">
@@ -201,90 +201,21 @@
                     <section class="section">
                       <div class="pointer"></div>
                       <div class="abstract">
-                        <p>A value that holds information about formatting month titles.</p>
+                        <p>A view controller that manages a <code><a href="Classes/CPCCalendarView.html">CPCCalendarView</a></code> instance as its root view and optionally displays
+a supplementary view providing weekdays for the calendar view.</p>
 
-                        <a href="Structs/CPCViewTitleStyle.html" class="slightly-smaller">See more</a>
+                        <a href="Classes/CPCCalendarViewController.html" class="slightly-smaller">See more</a>
                       </div>
                       <div class="declaration">
                         <h4>Declaration</h4>
                         <div class="language">
                           <p class="aside-title">Swift</p>
-                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">CPCViewTitleStyle</span> <span class="p">:</span> <span class="kt">Hashable</span><span class="p">,</span> <span class="kt">RawRepresentable</span><span class="p">,</span> <span class="kt">ExpressibleByStringLiteral</span></code></pre>
+                          <pre class="highlight swift"><code><span class="kd">open</span> <span class="kd">class</span> <span class="kt">CPCCalendarViewController</span> <span class="p">:</span> <span class="kt">UIViewController</span></code></pre>
 
                         </div>
                       </div>
                       <div class="slightly-smaller">
-                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCViewTitleStyle.swift#L27-L122">Show on GitHub</a>
-                      </div>
-                    </section>
-                  </div>
-                </li>
-              </ul>
-            </div>
-            <div class="task-group">
-              <ul class="item-container">
-                <li class="item">
-                  <div>
-                    <code>
-                    <a name="/s:14CrispyCalendar15CPCDayCellStateV"></a>
-                    <a name="//apple_ref/swift/Struct/CPCDayCellState" class="dashAnchor"></a>
-                    <a class="token" href="#/s:14CrispyCalendar15CPCDayCellStateV">CPCDayCellState</a>
-                    </code>
-                  </div>
-                  <div class="height-container">
-                    <div class="pointer-container"></div>
-                    <section class="section">
-                      <div class="pointer"></div>
-                      <div class="abstract">
-                        <p>State of a single cell for a specific day.</p>
-
-                        <a href="Structs/CPCDayCellState.html" class="slightly-smaller">See more</a>
-                      </div>
-                      <div class="declaration">
-                        <h4>Declaration</h4>
-                        <div class="language">
-                          <p class="aside-title">Swift</p>
-                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">CPCDayCellState</span> <span class="p">:</span> <span class="kt">Hashable</span><span class="p">,</span> <span class="kt">CaseIterable</span></code></pre>
-
-                        </div>
-                      </div>
-                      <div class="slightly-smaller">
-                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCDayCellState.swift#L38-L67">Show on GitHub</a>
-                      </div>
-                    </section>
-                  </div>
-                </li>
-              </ul>
-            </div>
-            <div class="task-group">
-              <ul class="item-container">
-                <li class="item">
-                  <div>
-                    <code>
-                    <a name="/s:14CrispyCalendar26CPCDayCellRenderingContextP"></a>
-                    <a name="//apple_ref/swift/Protocol/CPCDayCellRenderingContext" class="dashAnchor"></a>
-                    <a class="token" href="#/s:14CrispyCalendar26CPCDayCellRenderingContextP">CPCDayCellRenderingContext</a>
-                    </code>
-                  </div>
-                  <div class="height-container">
-                    <div class="pointer-container"></div>
-                    <section class="section">
-                      <div class="pointer"></div>
-                      <div class="abstract">
-                        <p>A set of methods that provide contextual information for drawing a single day cell in a month view.</p>
-
-                        <a href="Protocols/CPCDayCellRenderingContext.html" class="slightly-smaller">See more</a>
-                      </div>
-                      <div class="declaration">
-                        <h4>Declaration</h4>
-                        <div class="language">
-                          <p class="aside-title">Swift</p>
-                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">CPCDayCellRenderingContext</span></code></pre>
-
-                        </div>
-                      </div>
-                      <div class="slightly-smaller">
-                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCDayCellRenderer.swift#L27-L44">Show on GitHub</a>
+                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L92-L264">Show on GitHub</a>
                       </div>
                     </section>
                   </div>
@@ -292,9 +223,9 @@
                 <li class="item">
                   <div>
                     <code>
-                    <a name="/s:14CrispyCalendar18CPCDayCellRendererP"></a>
-                    <a name="//apple_ref/swift/Protocol/CPCDayCellRenderer" class="dashAnchor"></a>
-                    <a class="token" href="#/s:14CrispyCalendar18CPCDayCellRendererP">CPCDayCellRenderer</a>
+                    <a name="/s:14CrispyCalendar42CPCCalendarViewControllerSelectionDelegateP"></a>
+                    <a name="//apple_ref/swift/Protocol/CPCCalendarViewControllerSelectionDelegate" class="dashAnchor"></a>
+                    <a class="token" href="#/s:14CrispyCalendar42CPCCalendarViewControllerSelectionDelegateP">CPCCalendarViewControllerSelectionDelegate</a>
                     </code>
                   </div>
                   <div class="height-container">
@@ -302,20 +233,21 @@
                     <section class="section">
                       <div class="pointer"></div>
                       <div class="abstract">
-                        <p>A type that is able to render a cell of a month view, representing an arbitrary day.</p>
+                        <p>Use a selection delegate (a custom object that implements this protocol) to modify behavior
+of a calendar view controller when user interacts with it.</p>
 
-                        <a href="Protocols/CPCDayCellRenderer.html" class="slightly-smaller">See more</a>
+                        <a href="Protocols/CPCCalendarViewControllerSelectionDelegate.html" class="slightly-smaller">See more</a>
                       </div>
                       <div class="declaration">
                         <h4>Declaration</h4>
                         <div class="language">
                           <p class="aside-title">Swift</p>
-                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">CPCDayCellRenderer</span></code></pre>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">CPCCalendarViewControllerSelectionDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 
                         </div>
                       </div>
                       <div class="slightly-smaller">
-                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCDayCellRenderer.swift#L47-L67">Show on GitHub</a>
+                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L28-L53">Show on GitHub</a>
                       </div>
                     </section>
                   </div>
