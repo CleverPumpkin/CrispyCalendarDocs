@@ -160,10 +160,7 @@
                 <a class="nav-group-task-link" href="../Structs/CPCViewTitleStyle.html">CPCViewTitleStyle</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="../Structs/CPCDayCellState.html">CPCDayCellState</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="../Structs/CPCDayCellState/BackgroundState.html">– BackgroundState</a>
+                <a class="nav-group-task-link" href="../Extensions/CPCDayCellState.html">CPCDayCellState</a>
               </li>
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="../Protocols/CPCDayCellRenderingContext.html">CPCDayCellRenderingContext</a>
@@ -214,7 +211,7 @@
                         <p>Fully renders content of cell, representing a specific day. Default implementation calls <code>drawCellBackground (in:)</code> and <code>drawCellTitle (in:)</code>, in that order.</p>
 <div class="aside aside-note">
     <p class="aside-title">Note</p>
-    Graphical context is guaranteed to be cleared and than filled with background color for <code><a href="../Structs/CPCDayCellState.html#/s:14CrispyCalendar15CPCDayCellStateV6normalACvpZ">CPCDayCellState.normal</a></code> inside cell&rsquo;s frame.
+    Graphical context is guaranteed to be cleared and than filled with background color for <code>CPCDayCellState.normal</code> inside cell&rsquo;s frame.
 
 </div>
 <div class="aside aside-important">
@@ -425,9 +422,9 @@
                 <li class="item">
                   <div>
                     <code>
-                    <a name="/s:14CrispyCalendar18CPCDayCellRendererPAAE04drawD10Background5state5color5frame2inyAA0cD5StateV_So7UIColorCSgSo6CGRectVSo12CGContextRefatF"></a>
+                    <a name="/s:14CrispyCalendar18CPCDayCellRendererPAAE04drawD10Background5state5color5frame2inySo0cD5StateV_So7UIColorCSgSo6CGRectVSo12CGContextRefatF"></a>
                     <a name="//apple_ref/swift/Method/drawCellBackground(state:color:frame:in:)" class="dashAnchor"></a>
-                    <a class="token" href="#/s:14CrispyCalendar18CPCDayCellRendererPAAE04drawD10Background5state5color5frame2inyAA0cD5StateV_So7UIColorCSgSo6CGRectVSo12CGContextRefatF">drawCellBackground(state:color:frame:in:)</a>
+                    <a class="token" href="#/s:14CrispyCalendar18CPCDayCellRendererPAAE04drawD10Background5state5color5frame2inySo0cD5StateV_So7UIColorCSgSo6CGRectVSo12CGContextRefatF">drawCellBackground(state:color:frame:in:)</a>
                     </code>
                       <span class="declaration-note">
                         Extension method
@@ -438,14 +435,14 @@
                     <section class="section">
                       <div class="pointer"></div>
                       <div class="abstract">
-                        <p>Default implementation of day cell background drawing. Fills <code>frame</code> of <code>context</code> with <code>color</code> if <code>state</code> != <code><a href="../Structs/CPCDayCellState.html#/s:14CrispyCalendar15CPCDayCellStateV6normalACvpZ">CPCDayCellState.normal</a></code>.</p>
+                        <p>Default implementation of day cell background drawing. Fills <code>frame</code> of <code>context</code> with <code>color</code> if <code>state</code> != <code>CPCDayCellState.normal</code>.</p>
 
                       </div>
                       <div class="declaration">
                         <h4>Declaration</h4>
                         <div class="language">
                           <p class="aside-title">Swift</p>
-                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">drawCellBackground</span><span class="p">(</span><span class="nv">state</span><span class="p">:</span> <span class="kt"><a href="../Structs/CPCDayCellState.html">CPCDayCellState</a></span><span class="p">,</span> <span class="nv">color</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">?,</span> <span class="nv">frame</span><span class="p">:</span> <span class="kt">CGRect</span><span class="p">,</span> <span class="k">in</span> <span class="nv">context</span><span class="p">:</span> <span class="kt">CGContext</span><span class="p">)</span></code></pre>
+                          <pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">drawCellBackground</span><span class="p">(</span><span class="nv">state</span><span class="p">:</span> <span class="kt">CPCDayCellState</span><span class="p">,</span> <span class="nv">color</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">?,</span> <span class="nv">frame</span><span class="p">:</span> <span class="kt">CGRect</span><span class="p">,</span> <span class="k">in</span> <span class="nv">context</span><span class="p">:</span> <span class="kt">CGContext</span><span class="p">)</span></code></pre>
 
                         </div>
                       </div>
@@ -606,7 +603,7 @@
       </article>
     </div>
     <section class="footer">
-      <p>&copy; 2018 <a class="link" href="http://cleverpumpkin.ru" target="_blank" rel="external">Cleverpumpkin, Ltd.</a>. All rights reserved. (Last updated: 2018-10-18)</p>
+      <p>&copy; 2018 <a class="link" href="http://cleverpumpkin.ru" target="_blank" rel="external">Cleverpumpkin, Ltd.</a>. All rights reserved. (Last updated: 2018-10-22)</p>
       <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.9.3</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external">Realm</a> project.</p>
     </section>
   </body>
