@@ -51,162 +51,204 @@
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCCalendarView.swift",
-      "line": 80,
+      "line": 91,
       "symbol": "CPCCalendarView.backgroundColor",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCCalendarView.swift",
-      "line": 86,
+      "line": 97,
       "symbol": "CPCCalendarView.adjustsFontForContentSizeCategory",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCCalendarView.swift",
-      "line": 111,
+      "line": 145,
       "symbol": "CPCCalendarView.init(frame:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCCalendarView.swift",
-      "line": 118,
+      "line": 152,
       "symbol": "CPCCalendarView.init(coder:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCCalendarView.swift",
-      "line": 138,
+      "line": 175,
       "symbol": "CPCCalendarView.layoutSubviews()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
+      "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCCalendarView.swift",
+      "line": 180,
+      "symbol": "CPCCalendarView.layoutMarginsDidChange()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCCalendarView.swift",
+      "line": 186,
+      "symbol": "CPCCalendarView.safeAreaInsetsDidChange()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCCalendarView.swift",
+      "line": 191,
+      "symbol": "CPCCalendarView.didAddSubview(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCCalendarView.swift",
+      "line": 198,
+      "symbol": "CPCCalendarView.willRemoveSubview(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCCalendarViewController.swift",
-      "line": 132,
+      "line": 128,
       "symbol": "CPCCalendarViewController.view",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCCalendarViewController.swift",
-      "line": 190,
+      "line": 202,
       "symbol": "CPCCalendarViewController.init(nibName:bundle:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCCalendarViewController.swift",
-      "line": 195,
+      "line": 207,
       "symbol": "CPCCalendarViewController.init(coder:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCCalendarViewController.swift",
-      "line": 200,
+      "line": 212,
       "symbol": "CPCCalendarViewController.loadView()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCCalendarViewController.swift",
-      "line": 219,
+      "line": 231,
       "symbol": "CPCCalendarViewController.viewWillLayoutSubviews()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCCalendarViewController.swift",
-      "line": 225,
+      "line": 237,
       "symbol": "CPCCalendarViewController.didMove(toParent:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCCalendarViewController.swift",
-      "line": 237,
+      "line": 249,
       "symbol": "CPCCalendarViewController.viewSafeAreaInsetsDidChange()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
+      "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCCalendarView_Layout.swift",
+      "line": null,
+      "symbol": "CPCCalendarView.Layout",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCMonthView.swift",
-      "line": 240,
+      "line": 265,
       "symbol": "CPCMonthView.init(frame:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCMonthView.swift",
-      "line": 261,
+      "line": 286,
       "symbol": "CPCMonthView.init(coder:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCMonthView.swift",
-      "line": 303,
+      "line": 328,
       "symbol": "CPCMonthView.setContentCompressionResistancePriority(_:for:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCMonthView.swift",
-      "line": 310,
+      "line": 335,
       "symbol": "CPCMonthView.updateConstraints()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCMonthView.swift",
-      "line": 322,
+      "line": 347,
       "symbol": "CPCMonthView.sizeThatFits(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCMonthView.swift",
-      "line": 334,
+      "line": 359,
       "symbol": "CPCMonthView.draw(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCMonthView.swift",
-      "line": 343,
+      "line": 368,
       "symbol": "CPCMonthView.beginTracking(_:with:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCMonthView.swift",
-      "line": 351,
+      "line": 376,
       "symbol": "CPCMonthView.continueTracking(_:with:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCMonthView.swift",
-      "line": 359,
+      "line": 384,
       "symbol": "CPCMonthView.endTracking(_:with:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCMonthView.swift",
-      "line": 373,
+      "line": 398,
       "symbol": "CPCMonthView.cancelTracking(with:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCMonthView.swift",
-      "line": 405,
+      "line": 430,
       "symbol": "CPCMonthView.adjustsFontForContentSizeCategory",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCMonthView.swift",
+      "line": 552,
+      "symbol": "CPCMonthView.aspectRatioComponents",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
@@ -225,43 +267,71 @@
       "warning": "undocumented"
     },
     {
+      "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCViewSelection.swift",
+      "line": 101,
+      "symbol": "CPCViewSelection.ReferenceType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCViewSelection.swift",
+      "line": 102,
+      "symbol": "CPCViewSelection._ObjectiveCType",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCWeekView.swift",
-      "line": 76,
+      "line": 69,
       "symbol": "CPCWeekView.intrinsicContentSize",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCWeekView.swift",
-      "line": 80,
+      "line": 73,
       "symbol": "CPCWeekView.adjustsFontForContentSizeCategory",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCWeekView.swift",
-      "line": 102,
+      "line": 103,
       "symbol": "CPCWeekView.init(frame:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCWeekView.swift",
-      "line": 107,
+      "line": 108,
       "symbol": "CPCWeekView.init(coder:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCWeekView.swift",
-      "line": 117,
+      "line": 118,
       "symbol": "CPCWeekView.sizeThatFits(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCWeekView.swift",
-      "line": 121,
+      "line": 122,
+      "symbol": "CPCWeekView.layoutMarginsDidChange()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCWeekView.swift",
+      "line": 134,
+      "symbol": "CPCWeekView.safeAreaInsetsDidChange()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/byss/Repos/crispycalendar-copy/CrispyCalendar/View/CPCWeekView.swift",
+      "line": 145,
       "symbol": "CPCWeekView.draw(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"

@@ -23,7 +23,7 @@
         <a class="header-link" href="../index.html">
           CrispyCalendar Docs
         </a>
-         (90% documented)
+         (87% documented)
       </p>
     
       <p class="header-col--secondary">
@@ -57,7 +57,7 @@
       <nav class="navigation">
         <ul class="nav-groups">
           <li class="nav-group-name">
-            <a class="nav-group-name-link" href="../Model.html">Model</a>
+            <a class="nav-group-name-link" href="../Data Model.html">Data Model</a>
             <ul class="nav-group-tasks">
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="../Protocols/CPCDateInterval.html">CPCDateInterval</a>
@@ -70,9 +70,6 @@
               </li>
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="../Protocols/CPCCalendarUnitSymbol/Style.html">– Style</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="../Enums/CPCCalendarUnitSymbolStyle.html">CPCCalendarUnitSymbolStyle</a>
               </li>
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="../Structs/CPCDay.html">CPCDay</a>
@@ -115,6 +112,9 @@
                 <a class="nav-group-task-link" href="../Classes/CPCMonthView.html">CPCMonthView</a>
               </li>
               <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Classes/CPCMonthView/PartialLayoutAttributes.html">– PartialLayoutAttributes</a>
+              </li>
+              <li class="nav-group-task">
                 <a class="nav-group-task-link" href="../Classes/CPCMonthView/LayoutAttributes.html">– LayoutAttributes</a>
               </li>
               <li class="nav-group-task">
@@ -123,10 +123,13 @@
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="../Classes/CPCCalendarView.html">CPCCalendarView</a>
               </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Classes/CPCCalendarView/ColumnContentInsetReference.html">– ColumnContentInsetReference</a>
+              </li>
             </ul>
           </li>
           <li class="nav-group-name">
-            <a class="nav-group-name-link" href="../View Controller.html">View Controller</a>
+            <a class="nav-group-name-link" href="../View Controllers.html">View Controllers</a>
             <ul class="nav-group-tasks">
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="../Classes/CPCCalendarViewController.html">CPCCalendarViewController</a>
@@ -137,7 +140,7 @@
             </ul>
           </li>
           <li class="nav-group-name">
-            <a class="nav-group-name-link" href="../Selection management.html">Selection management</a>
+            <a class="nav-group-name-link" href="../Selection Management.html">Selection Management</a>
             <ul class="nav-group-tasks">
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="../Enums/CPCViewSelection.html">CPCViewSelection</a>
@@ -218,7 +221,7 @@ a supplementary view providing weekdays for the calendar view.</p>
                         </div>
                       </div>
                       <div class="slightly-smaller">
-                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L122-L130">Show on GitHub</a>
+                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L118-L126">Show on GitHub</a>
                       </div>
                     </section>
                   </div>
@@ -248,7 +251,7 @@ a supplementary view providing weekdays for the calendar view.</p>
                         </div>
                       </div>
                       <div class="slightly-smaller">
-                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L132-L147">Show on GitHub</a>
+                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L128-L141">Show on GitHub</a>
                       </div>
                     </section>
                   </div>
@@ -278,7 +281,7 @@ a supplementary view providing weekdays for the calendar view.</p>
                         </div>
                       </div>
                       <div class="slightly-smaller">
-                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L150-L152">Show on GitHub</a>
+                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L144-L146">Show on GitHub</a>
                       </div>
                     </section>
                   </div>
@@ -303,12 +306,43 @@ a supplementary view providing weekdays for the calendar view.</p>
                         <h4>Declaration</h4>
                         <div class="language">
                           <p class="aside-title">Swift</p>
-                          <pre class="highlight swift"><code><span class="kd">open</span> <span class="k">var</span> <span class="nv">weekView</span><span class="p">:</span> <span class="kt"><a href="../Classes/CPCWeekView.html">CPCWeekView</a></span><span class="o">!</span></code></pre>
+                          <pre class="highlight swift"><code><span class="kd">open</span> <span class="k">var</span> <span class="nv">weekView</span><span class="p">:</span> <span class="kt"><a href="../Classes/CPCWeekView.html">CPCWeekView</a></span><span class="o">!</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 
                         </div>
                       </div>
                       <div class="slightly-smaller">
-                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L155">Show on GitHub</a>
+                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L149-L152">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@CrispyCalendar@objc(cs)CPCCalendarViewController(py)selection"></a>
+                    <a name="//apple_ref/swift/Property/_objcBridgedSelection" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@CrispyCalendar@objc(cs)CPCCalendarViewController(py)selection">_objcBridgedSelection</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>See <code><a href="../Classes/CPCCalendarViewController.html#/s:14CrispyCalendar25CPCCalendarViewControllerC9selectionAA16CPCViewSelectionOvp">selection</a></code>.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">@objc(selection)</span>
+<span class="kd">open</span> <span class="k">var</span> <span class="nv">_objcBridgedSelection</span><span class="p">:</span> <span class="n">__CPCViewSelection</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L156-L159">Show on GitHub</a>
                       </div>
                     </section>
                   </div>
@@ -338,7 +372,7 @@ a supplementary view providing weekdays for the calendar view.</p>
                         </div>
                       </div>
                       <div class="slightly-smaller">
-                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L158-L165">Show on GitHub</a>
+                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L162-L165">Show on GitHub</a>
                       </div>
                     </section>
                   </div>
@@ -406,6 +440,68 @@ a supplementary view providing weekdays for the calendar view.</p>
                 <li class="item">
                   <div>
                     <code>
+                    <a name="/c:@M@CrispyCalendar@objc(cs)CPCCalendarViewController(py)columnCount"></a>
+                    <a name="//apple_ref/swift/Property/columnCount" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@CrispyCalendar@objc(cs)CPCCalendarViewController(py)columnCount">columnCount</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>The number of columns to display in a calendar view.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">@IBInspectable</span>
+<span class="kd">open</span> <span class="kd">dynamic</span> <span class="k">var</span> <span class="nv">columnCount</span><span class="p">:</span> <span class="kt">Int</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L188-L191">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/c:@M@CrispyCalendar@objc(cs)CPCCalendarViewController(py)columnContentInset"></a>
+                    <a name="//apple_ref/swift/Property/columnContentInset" class="dashAnchor"></a>
+                    <a class="token" href="#/c:@M@CrispyCalendar@objc(cs)CPCCalendarViewController(py)columnContentInset">columnContentInset</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Insets or outsets that are applied to each calendar column.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">@IBInspectable</span>
+<span class="kd">open</span> <span class="kd">dynamic</span> <span class="k">var</span> <span class="nv">columnContentInset</span><span class="p">:</span> <span class="kt">UIEdgeInsets</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div class="slightly-smaller">
+                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L194-L197">Show on GitHub</a>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
                     <a name="/c:@M@CrispyCalendar@objc(cs)CPCCalendarViewController(im)initWithNibName:bundle:"></a>
                     <a name="//apple_ref/swift/Method/init(nibName:bundle:)" class="dashAnchor"></a>
                     <a class="token" href="#/c:@M@CrispyCalendar@objc(cs)CPCCalendarViewController(im)initWithNibName:bundle:">init(nibName:bundle:)</a>
@@ -428,7 +524,7 @@ a supplementary view providing weekdays for the calendar view.</p>
                         </div>
                       </div>
                       <div class="slightly-smaller">
-                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L190-L193">Show on GitHub</a>
+                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L202-L205">Show on GitHub</a>
                       </div>
                     </section>
                   </div>
@@ -458,7 +554,7 @@ a supplementary view providing weekdays for the calendar view.</p>
                         </div>
                       </div>
                       <div class="slightly-smaller">
-                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L195-L198">Show on GitHub</a>
+                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L207-L210">Show on GitHub</a>
                       </div>
                     </section>
                   </div>
@@ -488,7 +584,7 @@ a supplementary view providing weekdays for the calendar view.</p>
                         </div>
                       </div>
                       <div class="slightly-smaller">
-                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L200-L217">Show on GitHub</a>
+                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L212-L229">Show on GitHub</a>
                       </div>
                     </section>
                   </div>
@@ -518,7 +614,7 @@ a supplementary view providing weekdays for the calendar view.</p>
                         </div>
                       </div>
                       <div class="slightly-smaller">
-                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L219-L222">Show on GitHub</a>
+                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L231-L234">Show on GitHub</a>
                       </div>
                     </section>
                   </div>
@@ -548,7 +644,7 @@ a supplementary view providing weekdays for the calendar view.</p>
                         </div>
                       </div>
                       <div class="slightly-smaller">
-                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L225-L228">Show on GitHub</a>
+                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L237-L240">Show on GitHub</a>
                       </div>
                     </section>
                   </div>
@@ -578,7 +674,7 @@ a supplementary view providing weekdays for the calendar view.</p>
                         </div>
                       </div>
                       <div class="slightly-smaller">
-                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L237-L240">Show on GitHub</a>
+                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L249-L252">Show on GitHub</a>
                       </div>
                     </section>
                   </div>
@@ -611,7 +707,7 @@ a supplementary view providing weekdays for the calendar view.</p>
                         </div>
                       </div>
                       <div class="slightly-smaller">
-                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L245">Show on GitHub</a>
+                        <a href="https://github.com/cleverpumpkin/crispycalendar/tree/master/CrispyCalendar/CrispyCalendar/View/CPCCalendarViewController.swift#L257">Show on GitHub</a>
                       </div>
                     </section>
                   </div>
@@ -624,7 +720,7 @@ a supplementary view providing weekdays for the calendar view.</p>
       </article>
     </div>
     <section class="footer">
-      <p>&copy; 2018 <a class="link" href="http://cleverpumpkin.ru" target="_blank" rel="external">Cleverpumpkin, Ltd.</a>. All rights reserved. (Last updated: 2018-10-22)</p>
+      <p>&copy; 2018 <a class="link" href="http://cleverpumpkin.ru" target="_blank" rel="external">Cleverpumpkin, Ltd.</a>. All rights reserved. (Last updated: 2018-11-07)</p>
       <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.9.3</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external">Realm</a> project.</p>
     </section>
   </body>
