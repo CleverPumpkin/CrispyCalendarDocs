@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>CPCalendar  Reference</title>
+    <title>CrispyCalendar  Reference</title>
     <link rel="stylesheet" type="text/css" href="css/jazzy.css" />
     <link rel="stylesheet" type="text/css" href="css/highlight.css" />
     <meta charset="utf-8">
@@ -15,14 +15,14 @@
   <body>
 
 
-    <a title="CPCalendar  Reference"></a>
+    <a title="CrispyCalendar  Reference"></a>
 
     <header class="header">
       <p class="header-col header-col--primary">
         <a class="header-link" href="index.html">
-          CPCalendar Docs
+          CrispyCalendar Docs
         </a>
-         (39% documented)
+         (52% documented)
       </p>
     
       <p class="header-col--secondary">
@@ -32,14 +32,14 @@
       </p>
     
         <p class="header-col header-col--secondary">
-          <a class="header-link" href="https://github.com/cleverpumpkin/cpcalendar-ios">
+          <a class="header-link" href="https://github.com/CleverPumpkin/CrispyCalendar">
             <img class="header-icon" src="img/gh.png"/>
             View on GitHub
           </a>
         </p>
     
         <p class="header-col header-col--secondary">
-          <a class="header-link" href="dash-feed://https%3A%2F%2Fcleverpumpkin%2Egithub%2Eio%2Fcpcalendar%2Dios%2Ddocs%2Finternal%2Fdocsets%2FCPCalendar%2Exml">
+          <a class="header-link" href="dash-feed://https%3A%2F%2Fcleverpumpkin%2Egithub%2Eio%2FCrispyCalendarDocs%2Finternal%2Fdocsets%2FCrispyCalendar%2Exml">
             <img class="header-icon" src="img/dash.png"/>
             Install in Dash
           </a>
@@ -47,16 +47,146 @@
     </header>
 
     <p class="breadcrumbs">
-      <a class="breadcrumb" href="index.html">CPCalendar Reference</a>
+      <a class="breadcrumb" href="index.html">CrispyCalendar Reference</a>
       <img class="carat" src="img/carat.png" />
-      CPCalendar  Reference
+      CrispyCalendar  Reference
     </p>
 
     <div class="content-wrapper">
       <nav class="navigation">
         <ul class="nav-groups">
           <li class="nav-group-name">
-            <a class="nav-group-name-link" href="Model.html">Model</a>
+            <a class="nav-group-name-link" href="Threading support.html">Threading support</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Structs/ThreadsafeStorage.html">ThreadsafeStorage</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Threading support.html#/s:14CrispyCalendar23UnfairThreadsafeStoragea">UnfairThreadsafeStorage</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Threading support.html#/s:14CrispyCalendar24DispatchSemaphoreStoragea">DispatchSemaphoreStorage</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Threading support.html#/s:14CrispyCalendar20PThreadRWLockStoragea">PThreadRWLockStorage</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="Internal collections.html">Internal collections</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Structs/UnownedArray.html">UnownedArray</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Structs/UnownedDictionary.html">UnownedDictionary</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Structs/GridIndices.html">GridIndices</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Structs/GridIndices/Element.html">– Element</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Structs/ComputedCollection.html">ComputedCollection</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Structs/FloatingBaseArray.html">FloatingBaseArray</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="Data model storage &amp; caching.html">Data model storage &amp; caching</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Classes/CPCCalendarWrapper.html">CPCCalendarWrapper</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Protocols/CPCCalendarUnit.html">CPCCalendarUnit</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Protocols/CPCCompoundCalendarUnit.html">CPCCompoundCalendarUnit</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Protocols/CPCCalendarUnitBackingType.html">CPCCalendarUnitBackingType</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Protocols/ExpressibleByDateComponents.html">ExpressibleByDateComponents</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Protocols/DateComponentsConvertible.html">DateComponentsConvertible</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Protocols/CPCCalendarUnitSpecificCacheProtocol.html">CPCCalendarUnitSpecificCacheProtocol</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Protocols/CPCCalendarCommonUnitValuesCacheProtocol.html">CPCCalendarCommonUnitValuesCacheProtocol</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Enums/CPCCommonCalendarUnitCacheKey.html">CPCCommonCalendarUnitCacheKey</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="CPMonthView internals.html">CPMonthView internals</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Protocols/CPCFontMetricsProtocol.html">CPCFontMetricsProtocol</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Structs/CPCFontMetrics.html">CPCFontMetrics</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Structs/CPCDayCellStateBasedStorage.html">CPCDayCellStateBasedStorage</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Classes/CPCViewAppearanceStorage.html">CPCViewAppearanceStorage</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Protocols/CPCViewContentAdjusting.html">CPCViewContentAdjusting</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Protocols/CPCViewSelectionHandlerProtocol.html">CPCViewSelectionHandlerProtocol</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Protocols/CPCViewSelectionHandling.html">CPCViewSelectionHandling</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Protocols/CPCPrimitiveSelectionHandler.html">CPCPrimitiveSelectionHandler</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Enums/CPCViewSelectionHandler.html">CPCViewSelectionHandler</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Enums/CPCViewSelectionHandler/Delegating.html">– Delegating</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Protocols/CPCViewDelegatingSelectionHandling.html">CPCViewDelegatingSelectionHandling</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="CPMonthView internals.html#/s:14CrispyCalendar30CPCViewDefaultSelectionHandlerAA0ceF8Protocol_pvp">CPCViewDefaultSelectionHandler</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Protocols/CPCMonthViewRedrawContext.html">CPCMonthViewRedrawContext</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="CPCalendarView internals.html">CPCalendarView internals</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Protocols/CPCCalendarViewLayoutDelegate.html">CPCCalendarViewLayoutDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Protocols/CPCMultiMonthsViewProtocol.html">CPCMultiMonthsViewProtocol</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Classes/CPCMonthViewsManager.html">CPCMonthViewsManager</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="Data Model.html">Data Model</a>
             <ul class="nav-group-tasks">
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Protocols/CPCDateInterval.html">CPCDateInterval</a>
@@ -71,13 +201,13 @@
                 <a class="nav-group-task-link" href="Protocols/CPCCalendarUnitSymbol/Style.html">– Style</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Enums/CPCCalendarUnitSymbolStyle.html">CPCCalendarUnitSymbolStyle</a>
-              </li>
-              <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Structs/CPCDay.html">CPCDay</a>
               </li>
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Structs/CPCDay/BackingStorage.html">– BackingStorage</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Structs/CPCDay/Weekday.html">– Weekday</a>
               </li>
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Structs/CPCWeek.html">CPCWeek</a>
@@ -126,6 +256,9 @@
                 <a class="nav-group-task-link" href="Classes/CPCMonthView.html">CPCMonthView</a>
               </li>
               <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Classes/CPCMonthView/PartialLayoutAttributes.html">– PartialLayoutAttributes</a>
+              </li>
+              <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Classes/CPCMonthView/LayoutAttributes.html">– LayoutAttributes</a>
               </li>
               <li class="nav-group-task">
@@ -137,10 +270,33 @@
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Classes/CPCCalendarView.html">CPCCalendarView</a>
               </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Classes/CPCCalendarView/ColumnContentInsetReference.html">– ColumnContentInsetReference</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Classes/CPCCalendarView/Cell.html">– Cell</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Classes/CPCCalendarView/DataSource.html">– DataSource</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Classes/CPCCalendarView/Layout.html">– Layout</a>
+              </li>
             </ul>
           </li>
           <li class="nav-group-name">
-            <a class="nav-group-name-link" href="Selection management.html">Selection management</a>
+            <a class="nav-group-name-link" href="View Controllers.html">View Controllers</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Classes/CPCCalendarViewController.html">CPCCalendarViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Protocols/CPCCalendarViewControllerSelectionDelegate.html">CPCCalendarViewControllerSelectionDelegate</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="Selection Management.html">Selection Management</a>
             <ul class="nav-group-tasks">
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Enums/CPCViewSelection.html">CPCViewSelection</a>
@@ -163,35 +319,13 @@
                 <a class="nav-group-task-link" href="Structs/CPCViewTitleStyle.html">CPCViewTitleStyle</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Structs/CPCDayCellState.html">CPCDayCellState</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Structs/CPCDayCellState/BackgroundState.html">– BackgroundState</a>
+                <a class="nav-group-task-link" href="Extensions/CPCDayCellState.html">CPCDayCellState</a>
               </li>
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Protocols/CPCDayCellRenderingContext.html">CPCDayCellRenderingContext</a>
               </li>
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Protocols/CPCDayCellRenderer.html">CPCDayCellRenderer</a>
-              </li>
-            </ul>
-          </li>
-          <li class="nav-group-name">
-            <a class="nav-group-name-link" href="Other Classes.html">Other Classes</a>
-            <ul class="nav-group-tasks">
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Classes/CPCCalendarWrapper.html">CPCCalendarWrapper</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Classes/CPCViewAppearanceStorage.html">CPCViewAppearanceStorage</a>
-              </li>
-            </ul>
-          </li>
-          <li class="nav-group-name">
-            <a class="nav-group-name-link" href="Other Global Variables.html">Other Global Variables</a>
-            <ul class="nav-group-tasks">
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Other Global Variables.html#/s:10CPCalendar30CPCViewDefaultSelectionHandlerAA0bdE8Protocol_pvp">CPCViewDefaultSelectionHandler</a>
               </li>
             </ul>
           </li>
@@ -210,16 +344,37 @@
                 <a class="nav-group-task-link" href="Extensions/BinaryFloatingPoint.html">BinaryFloatingPoint</a>
               </li>
               <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Extensions/CGRect.html">CGRect</a>
+              </li>
+              <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Extensions/CPCMonthViewRedrawContextImpl.html">CPCMonthViewRedrawContextImpl</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Extensions/DispatchSemaphore.html">DispatchSemaphore</a>
+                <a class="nav-group-task-link" href="Extensions/Calendar.html">Calendar</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Extensions/ContiguousArray.html">ContiguousArray</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Extensions/DateFormatter.html">DateFormatter</a>
               </li>
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Extensions/FloatingPoint.html">FloatingPoint</a>
               </li>
               <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Extensions/IndexPath.html">IndexPath</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Extensions/Locale.html">Locale</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Extensions/NSObjectProtocol.html">NSObjectProtocol</a>
+              </li>
+              <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Extensions/NSParagraphStyle.html">NSParagraphStyle</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Extensions/Range.html">Range</a>
               </li>
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Extensions/RangeExpression.html">RangeExpression</a>
@@ -228,16 +383,22 @@
                 <a class="nav-group-task-link" href="Extensions/RangeReplaceableCollection.html">RangeReplaceableCollection</a>
               </li>
               <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Extensions/RawValueConvertible.html">RawValueConvertible</a>
+              </li>
+              <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Extensions/Set.html">Set</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Extensions/SetAlgebra.html">SetAlgebra</a>
+                <a class="nav-group-task-link" href="Extensions/UIEdgeInsets.html">UIEdgeInsets</a>
               </li>
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Extensions/UIView.html">UIView</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Extensions/os_unfair_lock.html">os_unfair_lock</a>
+                <a class="nav-group-task-link" href="Extensions/UnsafePointer.html">UnsafePointer</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Extensions/__CPCYearMonthStorageLayout.html">__CPCYearMonthStorageLayout</a>
               </li>
             </ul>
           </li>
@@ -245,25 +406,16 @@
             <a class="nav-group-name-link" href="Other Functions.html">Other Functions</a>
             <ul class="nav-group-tasks">
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Other Functions.html#/s:10CPCalendar21concatenateHashValuesS2i_S2i11shiftAmounttF">concatenateHashValues(_:_:shiftAmount:)</a>
+                <a class="nav-group-task-link" href="Other Functions.html#/s:14CrispyCalendar9guarantee_4file4line8functionxxSg_s12StaticStringVSiSStlF">guarantee(_:file:line:function:)</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Other Functions.html#/s:10CPCalendar9guaranteexxSg_s12StaticStringV4fileSi4lineSS8functiontlF">guarantee(_:file:line:function:)</a>
+                <a class="nav-group-task-link" href="Other Functions.html#/s:14CrispyCalendar09resultingB12ForOperation3for_AA18CPCCalendarWrapperCx_q_tAA0G4UnitRzAaFR_r0_lF">resultingCalendarForOperation(for:_:)</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Other Functions.html#/s:10CPCalendar12hashIntegersSixs8SequenceRzs17FixedWidthInteger7ElementRpzlF">hashIntegers(_:)</a>
+                <a class="nav-group-task-link" href="Other Functions.html#/s:14CrispyCalendar13unsafeBitCastyq_xr0_lF">unsafeBitCast(_:)</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Other Functions.html#/s:10CPCalendar12hashIntegersSix_xdts17FixedWidthIntegerRzlF">hashIntegers(_:_:)</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Other Functions.html#/s:10CPCalendar5log2iSixs13BinaryIntegerRzlF">log2i(_:)</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Other Functions.html#/s:10CPCalendar5log2iSixs17FixedWidthIntegerRzlF">log2i(_:)</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Other Functions.html#/s:10CPCalendar29resultingCalendarForOperationAA18CPCCalendarWrapperCx3for_q_tAA0F4UnitRzAaFR_r0_lF">resultingCalendarForOperation(for:_:)</a>
+                <a class="nav-group-task-link" href="Other Functions.html#/s:14CrispyCalendar14unsafeDowncastyxyXlRlzClF">unsafeDowncast(_:)</a>
               </li>
             </ul>
           </li>
@@ -274,58 +426,16 @@
                 <a class="nav-group-task-link" href="Protocols/BoundedRangeProtocol.html">BoundedRangeProtocol</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Protocols/CPCCalendarUnit.html">CPCCalendarUnit</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Protocols/CPCCalendarUnitBackingType.html">CPCCalendarUnitBackingType</a>
+                <a class="nav-group-task-link" href="Protocols/CPCCalendarUnitBase.html">CPCCalendarUnitBase</a>
               </li>
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Protocols/CPCCalendarUnitSymbolImpl.html">CPCCalendarUnitSymbolImpl</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Protocols/CPCCompoundCalendarUnit.html">CPCCompoundCalendarUnit</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Protocols/CPCFontMetricsProtocol.html">CPCFontMetricsProtocol</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Protocols/CPCMonthViewRedrawContext.html">CPCMonthViewRedrawContext</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Protocols/CPCPrimitiveSelectionHandler.html">CPCPrimitiveSelectionHandler</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Protocols/CPCViewBackedByAppearanceStorage.html">CPCViewBackedByAppearanceStorage</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Protocols/CPCViewContentAdjusting.html">CPCViewContentAdjusting</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Protocols/CPCViewDelegatingSelectionHandling.html">CPCViewDelegatingSelectionHandling</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Protocols/CPCViewSelectionHandlerProtocol.html">CPCViewSelectionHandlerProtocol</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Protocols/CPCViewSelectionHandling.html">CPCViewSelectionHandling</a>
-              </li>
-              <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Protocols/ClosedRangeBaseProtocol.html">ClosedRangeBaseProtocol</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Protocols/DateComponentsConvertible.html">DateComponentsConvertible</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Protocols/ExpressibleByDateComponents.html">ExpressibleByDateComponents</a>
-              </li>
-              <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Protocols/RangeBaseProtocol.html">RangeBaseProtocol</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Protocols/ThreadsafeStorageLock.html">ThreadsafeStorageLock</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Protocols/ThreadsafeStorageLockWrapper.html">ThreadsafeStorageLockWrapper</a>
               </li>
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Protocols/ThreadsafeStorageProtocol.html">ThreadsafeStorageProtocol</a>
@@ -336,31 +446,13 @@
             <a class="nav-group-name-link" href="Other Structs.html">Other Structures</a>
             <ul class="nav-group-tasks">
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Other Structs.html#/s:10CPCalendar25CPCDefaultDayCellRendererV">CPCDefaultDayCellRenderer</a>
+                <a class="nav-group-task-link" href="Structs/CPCCompoundCalendarUnitIndex.html">CPCCompoundCalendarUnitIndex</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Structs/CPCFontMetrics.html">CPCFontMetrics</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Structs/CPCViewDayCellStateBackgroundColors.html">CPCViewDayCellStateBackgroundColors</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Structs/ComputedCollection.html">ComputedCollection</a>
+                <a class="nav-group-task-link" href="Other Structs.html#/s:14CrispyCalendar25CPCDefaultDayCellRendererV">CPCDefaultDayCellRenderer</a>
               </li>
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Structs/ComputedIndices.html">ComputedIndices</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Structs/GridIndices.html">GridIndices</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Structs/GridIndices/Element.html">– Element</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Structs/ThreadsafeStorage.html">ThreadsafeStorage</a>
-              </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Structs/UnownedArray.html">UnownedArray</a>
               </li>
             </ul>
           </li>
@@ -368,10 +460,10 @@
             <a class="nav-group-name-link" href="Other Typealiases.html">Other Type Aliases</a>
             <ul class="nav-group-tasks">
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Other Typealiases.html#/s:10CPCalendar13ComputedArraya">ComputedArray</a>
+                <a class="nav-group-task-link" href="Other Typealiases.html#/s:14CrispyCalendar13ComputedArraya">ComputedArray</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Other Typealiases.html#/s:10CPCalendar23UnfairThreadsafeStoragea">UnfairThreadsafeStorage</a>
+                <a class="nav-group-task-link" href="Other Typealiases.html#/s:14CrispyCalendar22FloatingBaseArraySlicea">FloatingBaseArraySlice</a>
               </li>
             </ul>
           </li>
@@ -382,14 +474,147 @@
         <section class="section">
           <div class="section-content">
             
-            <h1 id='cpcalendar' class='heading'>CPCalendar</h1>
-<h3 id='highly-performant-and-customizable-calendar-ui-library-written-with-lots-of-attention-to-various-localization-differences' class='heading'>Highly performant and customizable calendar UI library written with lots of attention to various localization differences.</h3>
-<h3 id='installation' class='heading'>Installation</h3>
-<pre class="highlight ruby"><code><span class="n">pod</span> <span class="s1">'CPCalendar'</span>
-</code></pre>
-<h3 id='authors' class='heading'>Authors</h3>
+            <p><img src="https://user-images.githubusercontent.com/2410233/47371768-09856680-d6f1-11e8-8aff-2e8418cdc1cb.png" alt="crispycalendar"></p>
 
-<p>Cleverpumpkin, Ltd.</p>
+<p>Whether you are writing yet another one task tracker or calendar app, or simply want to offer the users to skip the joy of using <code>UIDatePicker</code> and let them quickly and efficiently select dates — CrispyCalendar is <strong>the</strong> calendar UI framework you need.</p>
+
+<p><a href="https://cocoapods.org/pods/CrispyCalendar"><img src="https://img.shields.io/cocoapods/v/CrispyCalendar.svg?style=popout" alt="CocoaPods Compatible"></a>
+<img src="https://img.shields.io/cocoapods/p/CrispyCalendar.svg?style=popout" alt="Platform support">
+<a href="https://cleverpumpkin.github.io/CrispyCalendarDocs/public/"><img src="https://github.com/CleverPumpkin/CrispyCalendarDocs/blob/master/public/badge.svg" alt="Documentation"></a>
+<a href="https://github.com/ReSwift/ReSwift/blob/master/LICENSE.md"><img src="https://img.shields.io/cocoapods/l/CrispyCalendar.svg?style=popout" alt="License"></a></p>
+<h2 id='features' class='heading'>Features</h2>
+
+<ul>
+<li><strong>Written with localization in mind.</strong><br/>
+Specifically, many various (and even nonsensical) combinations of calendar types, locale identifiers
+and writing directions were tested. Also, this framework does not contain a single translation error
+simply because only standard Apple frameworks (hence, their translations) are being used and none of
+third-party code.</li>
+<li><strong>Ease of integration, customization options and extensibility — you are free to choose any and all of those.</strong><br/>
+The framework contains out-of-the-box components for the most common tasks; in many cases a single line of
+code allows you to employ rich user interfaces, allowing you to concentrate on business logic implementation.
+But at the same time, every such solution is thoroughly equipped with tuning possibilities and is designed
+modularly, allowing you to freely reuse and combine basic blocks to suite your specific requests.</li>
+<li><strong>Optimized for performance.</strong><br/>
+Even seasoned devices like iPhone 5 are rendering the calendar at the acceptable frame rate to say the least.
+Minor sacrifices had to be made to achieve that, but the overall result is shining nonetheless.</li>
+<li><strong>Objective C support.</strong><br/>
+Whether you are constrained by legacy code or just not ready for Swift in production-grade code yet, using
+CrispyCalendar from Objective C is possible. Mostly, Swift-specific features only are missing, but blind
+spots here and there are possible.</li>
+</ul>
+<h2 id='getting-started' class='heading'>Getting Started</h2>
+
+<ul>
+<li><a href="https://cleverpumpkin.github.io/CrispyCalendarDocs/public/getting-started.html">Getting Started</a> contains framework overview and describes basic concepts.</li>
+<li>Common usage patterns and various examples of code can be found in <a href="https://cleverpumpkin.github.io/CrispyCalendarDocs/public/Guides.html">Examples</a> directory.</li>
+<li><a href="CrispyCalendar.xcodeproj">Demo project</a>.</li>
+<li><a href="https://cleverpumpkin.github.io/CrispyCalendarDocs/public/index.html">API Reference</a> contains detailed
+descriptions of the vast majority of <code>public</code> &amp; <code>open</code> types and identifiers.</li>
+<li><a href="https://cleverpumpkin.github.io/CrispyCalendarDocs/internal/index.html">Internals Reference</a> lays out
+a number of internal design decisions and rationale. Its completeness is far from ideal but there is an
+ongoing work.</li>
+</ul>
+<h2 id='installation' class='heading'>Installation</h2>
+<h3 id='cocoapods-preferred' class='heading'>Cocoapods (preferred)</h3>
+
+<p>CocoaPods is a dependency manager for Swift and Objective-C Cocoa projects. It has over 53 thousand libraries and is used in over 3 million apps. More details and installation instructions may be found here: <a href="https://guides.cocoapods.org/using/getting-started.html">Using Cocoapods</a>.</p>
+
+<p>To integrate CrispyCalendar into your Xcode project using CocoaPods, specify it in your Podfile:</p>
+<pre class="highlight ruby"><code><span class="n">source</span> <span class="s1">'https://github.com/CocoaPods/Specs.git'</span>
+<span class="n">platform</span> <span class="ss">:ios</span><span class="p">,</span> <span class="s1">'10.3'</span>
+
+<span class="n">target</span> <span class="s1">'TargetName'</span> <span class="k">do</span>
+    <span class="n">pod</span> <span class="s1">'CrispyCalendar'</span><span class="p">,</span> <span class="s1">'~&gt; 1.0.0'</span>
+<span class="k">end</span>
+</code></pre>
+
+<p>Then, run the following command:</p>
+
+<p><code>$ pod install</code></p>
+<h3 id='manual' class='heading'>Manual</h3>
+
+<p>Open <a href="CrispyCalendar.xcodeproj">Demo project</a> in Xcode and build <code>CrispyCalendar</code> framework target.
+Then, embed it into your project and add it to <code>Linked Frameworks and Libraries</code> section of app target.</p>
+<h2 id='screenshots' class='heading'>Screenshots</h2>
+<h3 id='appearance-customization' class='heading'>Appearance customization</h3>
+
+<p>All the fonts, colors and other appearance details are customizable via corresponding properties. <a href="https://cleverpumpkin.github.io/CrispyCalendarDocs/public/Classes/CPCCalendarView.html">CPCCalendarView</a> does also support customization via <a href="https://developer.apple.com/documentation/uikit/uiappearance">UIAppearance</a> for properties representable in Objective C.</p>
+
+<table>
+<tr><th>Default</th><th>Basic from Debt Control</th><th>Input view from Debt Control</th></tr>
+<tr><td>
+  <img src="https://user-images.githubusercontent.com/2410233/47380929-5116ed00-d707-11e8-8395-c8fdf3ef4740.png" alt="default" width="375" />
+</td><td>
+  <img src="https://user-images.githubusercontent.com/2410233/47381603-18781300-d709-11e8-9346-44f92c7aca13.png" alt="basic" width="375" />
+</td><td>
+    <img src="https://user-images.githubusercontent.com/2410233/47381605-18781300-d709-11e8-9208-1479228e4c70.png" alt="inputview" width="375" />
+</td></tr></table>
+<h3 id='simple-selection' class='heading'>Simple selection</h3>
+
+<p>Prebuilt UI commonly uses <a href="https://cleverpumpkin.github.io/CrispyCalendarDocs/public/Classes/CPCMonthView.html">CPCMonthView</a> capable of displaying single month. <a href="https://cleverpumpkin.github.io/CrispyCalendarDocs/public/Classes/CPCMultiMonthsView.html">CPCMultiMonthsView</a> may be used as container for month views allowing shared selection handling and other functionality.</p>
+
+<table>
+<tr><th>Single day selection</th><th>Days range selection</th></tr>
+<tr><td>
+    <img src="https://user-images.githubusercontent.com/2410233/47583322-be24bf80-d95f-11e8-8f80-5716294e53b3.gif" alt="single" width="375" />
+</td><td>
+    <img src="https://user-images.githubusercontent.com/2410233/47583320-be24bf80-d95f-11e8-93ed-85c08f1f9248.gif" alt="range" width="375" />
+</td></tr></table>
+<h3 id='ordered-amp-unordered-selection' class='heading'>Ordered &amp; unordered selection</h3>
+
+<p>Selection process is fully controlled externally by corresponding view&rsquo;s delegate. Note that delegates for views inside containers are not supported.</p>
+
+<table>
+<tr><th>Unordered selection</th><th>Ordered selection</th></tr>
+<tr><td>
+    <img src="https://user-images.githubusercontent.com/2410233/47583318-bd8c2900-d95f-11e8-9b2b-910eb06f4184.gif" alt="unordered" width="375" />
+</td><td>
+    <img src="https://user-images.githubusercontent.com/2410233/47583317-bd8c2900-d95f-11e8-9e64-8ac47766a96d.gif" alt="ordered" width="375" />
+</td></tr></table>
+<h3 id='custom-draw-handlers' class='heading'>Custom draw handlers</h3>
+
+<p><a href="https://cleverpumpkin.github.io/CrispyCalendarDocs/public/Classes/CPCMonthView.html">CPCMonthView</a> does not comprise any real child views but is logically drawn from title <q>label</q> and <q>grid</q>, consisting of <q>day cells</q>. Custom day rendering is supported via custom <a href="https://cleverpumpkin.github.io/CrispyCalendarDocs/public/Protocols/CPCDayCellRenderer.html">CPCDayCellRenderer</a>s.</p>
+
+<table>
+<tr><th>Custom cell renderer example</th></tr>
+</td><td>
+    <img src="https://user-images.githubusercontent.com/2410233/47583315-bd8c2900-d95f-11e8-847e-d394551f906c.gif" alt="drawing" width="375" />
+</td></tr></table>
+<h3 id='localization' class='heading'>Localization</h3>
+
+<p>Locale used by any component cannot be set explicitly, but Calendar&rsquo;s locale is honored. The framework uses <code>[[[NSBundle mainBundle] preferredLocalizations] firstObject]</code> as default locale, including setting it for calendars without explicitly set locale.</p>
+
+<table>
+<tr><th>Non-gregorian calendar rendering</th></tr>
+</td><td>
+  <img src="https://user-images.githubusercontent.com/2410233/47583313-bd8c2900-d95f-11e8-884b-6ec1da3c27b8.gif" alt="hebrew" width="375" />
+</td></tr></table>
+<h3 id='other' class='heading'>Other</h3>
+
+<p>Available dates limiting, RTL and landscape orientation are fully supported.</p>
+
+<table>
+<tr><th>Dates limiting</th><th>Columned mode</th></tr>
+<tr><td>
+  <img src="https://user-images.githubusercontent.com/2410233/47583312-bd8c2900-d95f-11e8-88b7-ab6d293c7e9b.gif" alt="constrained" width="375" />
+</td><td>
+    <img src="https://user-images.githubusercontent.com/2410233/47583311-bd8c2900-d95f-11e8-9f00-7ed865e135d9.gif" alt="columns" width="375" />
+</td></tr></table>
+
+<table>
+<tr><th>RTL layout</th></tr>
+<tr><td>
+    <img src="https://user-images.githubusercontent.com/2410233/47584227-5328b800-d962-11e8-86cb-708befe84246.gif" alt="rtl" width="812" />
+</td></tr></table>
+<h2 id='credits' class='heading'>Credits</h2>
+
+<p>CrispyCalendar is owned and maintained by the <a href="https://cleverpumpkin.ru">Cleverpumpkin, Ltd</a>.</p>
+
+<p>CrispyCalendar was originally created by <a href="https://github.com/byss">Kirill Bystrov</a> as a response to lack of quality calendar-rendering libraries. Android couterpart does exist (but neither API nor UX is similar), check it out here: <a href="https://github.com/CleverPumpkin/CrunchyCalendar">CrunchyCalendar</a>.</p>
+<h2 id='license' class='heading'>License</h2>
+
+<p>CrispyCalendar is released under the MIT license. See <a href="./LICENSE">LICENSE</a> for details.</p>
 
           </div>
         </section>
@@ -398,7 +623,7 @@
       </article>
     </div>
     <section class="footer">
-      <p>&copy; 2018 <a class="link" href="http://cleverpumpkin.ru" target="_blank" rel="external">Cleverpumpkin, Ltd.</a>. All rights reserved. (Last updated: 2018-05-23)</p>
+      <p>&copy; 2018 <a class="link" href="http://cleverpumpkin.ru" target="_blank" rel="external">Cleverpumpkin, Ltd.</a>. All rights reserved. (Last updated: 2018-11-09)</p>
       <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.9.3</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external">Realm</a> project.</p>
     </section>
   </body>
